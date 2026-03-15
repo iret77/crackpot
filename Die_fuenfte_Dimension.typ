@@ -54,6 +54,7 @@
 
 #show table.cell.where(y: 0): set text(weight: "bold", size: 9.5pt)
 #show table.cell: set text(size: 9.5pt)
+#show table.cell: set par(justify: false)
 
 #v(2cm)
 #align(center)[
