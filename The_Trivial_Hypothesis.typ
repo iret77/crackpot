@@ -205,7 +205,7 @@ This principle is not a naïve assumption. It is one of the most productive heur
   This principle is not stated as a proven theorem, but as a productive heuristic with a perfect historical track record. It forms the foundational assumption upon which the entire further argumentation of this series rests. Should a physically real infinity ever be demonstrated, this axiom falls --- and with it the entire framework developed here. This is not a weakness, but a feature: it makes the position falsifiable.
 ]
 
-= 7a. The Measurability Criterion
+= 8. The Measurability Criterion
 
 The Regularity Principle can be supported by an epistemological argument that holds independently of the history of physics:
 
@@ -224,7 +224,7 @@ The Big Bang singularity violates this criterion. It lies behind the observation
 
 A physical theory that contains an in-principle-unobservable element as a central claim is, at that point, no longer operating empirically, but metaphysically. The question is whether that is acceptable.
 
-= 8. Open Flanks --- What Speaks Against It
+= 9. Open Flanks --- What Speaks Against It
 
 Intellectual honesty demands naming the counterarguments:
 
@@ -237,7 +237,7 @@ Intellectual honesty demands naming the counterarguments:
   [Hartle-Hawking itself has unresolved technical issues], [Moderate], [But the core principle continues to be actively researched (e.g. Turok & Boyle)],
 )
 
-= 9. The Elephant in the Room
+= 10. The Elephant in the Room
 
 At this point, an uncomfortable moment of self-reflection is due. Every physicist knows the situation: a layperson presents an «intuitive» idea about cosmology and claims the scientific community suffers from tunnel vision. The pattern is so common that it has its own name --- and its own internet forums. The author of this paper is acutely aware of this, and finds it genuinely uncomfortable.
 
@@ -247,13 +247,13 @@ The crucial difference between this line of thinking and a typical layperson's �
 
 Yet a residual unease remains --- and that may be the most honest thing one can say: the doubts about the singularity as physical reality do not vanish simply because the doubter is not a physicist. And the fact that these doubts align with serious, active research programmes makes them at least worth discussing.
 
-= 10. A Note on the Sociology of Science
+= 11. A Note on the Sociology of Science
 
 Highly developed theoretical edifices generate their own inertia. The more elaborate a model, the higher the cost of entry into the discourse --- and the harder it becomes to perceive a simpler alternative as even admissible. The demand «formalise it first» is simultaneously a legitimate scientific quality criterion and a gatekeeping mechanism.
 
 Physicists, too, are human beings who work in collectives and are subject to group dynamics, paradigmatic frameworks, and self-overestimation («I am thoroughly rational») just like any other healthy person. The history of science is full of cases in which a retrospectively trivial insight took decades to gain acceptance because it did not fit the language of the existing formalism: Wegener's continental drift, Boltzmann's statistical mechanics, Semmelweis's hygiene hypothesis.
 
-= 11. Conclusion
+= 12. Conclusion
 
 This paper claims nothing. It asks a question: if nature favours smooth, symmetric forms at every observable scale --- why is the default assumption for spacetime topology a singularity rather than a closed manifold? Why is the burden of proof not distributed the other way around?
 

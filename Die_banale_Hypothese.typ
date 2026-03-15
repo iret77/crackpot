@@ -218,7 +218,7 @@ Dieses Prinzip ist keine naive Annahme. Es ist eine der produktivsten Heuristike
   Dieses Prinzip ist nicht als bewiesener Satz formuliert, sondern als produktive Heuristik mit perfekter historischer Trefferquote. Es bildet die Grundannahme, auf der die gesamte weitere Argumentation dieser Reihe aufbaut. Sollte sich jemals eine physikalisch reale Unendlichkeit nachweisen lassen, fällt dieses Axiom --- und mit ihm das gesamte hier entwickelte Gedankengebäude. Das ist keine Schwäche, sondern ein Feature: Es macht die Position falsifizierbar.
 ]
 
-= 7a. Das Messbarkeitskriterium
+= 8. Das Messbarkeitskriterium
 
 Das Regularitätsprinzip lässt sich durch ein epistemologisches Argument stützen, das unabhängig von der Physikgeschichte gilt:
 
@@ -237,7 +237,7 @@ Die Urknall-Singularität verletzt dieses Kriterium. Sie liegt hinter dem Beobac
 
 Eine physikalische Theorie, die ein prinzipiell unbeobachtbares Element als zentrale Aussage enthält, operiert an dieser Stelle nicht mehr empirisch, sondern metaphysisch. Die Frage ist, ob das akzeptabel ist.
 
-= 8. Offene Flanken --- was dagegen spricht
+= 9. Offene Flanken --- was dagegen spricht
 
 Intellektuelle Ehrlichkeit erfordert, die Gegenargumente zu benennen:
 
@@ -250,7 +250,7 @@ Intellektuelle Ehrlichkeit erfordert, die Gegenargumente zu benennen:
   [Hartle-Hawking hat selbst ungelöste technische Probleme], [Mittel], [Aber das Grundprinzip wird weiterhin aktiv beforscht (z.B. Turok & Boyle)],
 )
 
-= 9. Der Elefant im Raum
+= 10. Der Elefant im Raum
 
 An dieser Stelle ist eine unbequeme Selbstreflexion fällig. Jeder Physiker kennt die Situation: Ein Laie präsentiert eine «intuitive» Idee zur Kosmologie und behauptet, die Fachwelt sei betriebsblind. Das Muster ist so häufig, dass es einen eigenen Namen hat --- und eigene Internetforen. Dem Autor dieses Papiers ist das bewusst und aufrichtig unangenehm.
 
@@ -260,13 +260,13 @@ Der entscheidende Unterschied zwischen dieser Überlegung und einer typischen La
 
 Dennoch bleibt ein Rest Unbehagen --- und das ist vielleicht das Ehrlichste, was man sagen kann: Die Zweifel an der Singularität als physikalischer Realität verschwinden nicht, nur weil der Zweifler kein Physiker ist. Und die Tatsache, dass sich diese Zweifel mit ernst genommenen Forschungsprogrammen decken, macht sie zumindest diskussionswürdig.
 
-= 10. Eine wissenschaftssoziologische Anmerkung
+= 11. Eine wissenschaftssoziologische Anmerkung
 
 Hochentwickelte Theoriegebäude erzeugen ihre eigene Trägheit. Je elaborierter ein Modell, desto höher die Eintrittskosten für den Fachdiskurs --- und desto schwieriger wird es, eine einfachere Alternative überhaupt als zulässig wahrzunehmen. Die Forderung «Formalisiere das erst einmal» ist gleichzeitig ein legitimes wissenschaftliches Qualitätskriterium und ein Gatekeeping-Mechanismus.
 
 Auch Physiker sind Menschen, die in Kollektiven arbeiten und Gruppendynamiken, paradigmatischen Denkgebäuden und Selbstüberschätzung («Ich bin durch und durch rational») genauso unterliegen wie jeder andere gesunde Mensch. Die Geschichte der Wissenschaft ist voll von Fällen, in denen eine im Rückblick triviale Einsicht Jahrzehnte brauchte, weil sie nicht in die Sprache des bestehenden Formalismus passte: Wegeners Kontinentaldrift, Boltzmanns statistische Mechanik, Semmelweis' Hygienehypothese.
 
-= 11. Fazit
+= 12. Fazit
 
 Dieses Papier behauptet nichts. Es stellt eine Frage: Wenn die Natur auf jeder beobachtbaren Skala glatte, symmetrische Formen bevorzugt --- warum ist die Standardannahme für die Raumzeit-Topologie dann eine Singularität und nicht eine geschlossene Mannigfaltigkeit? Warum ist die Beweislast nicht umgekehrt verteilt?
 
