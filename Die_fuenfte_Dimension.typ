@@ -197,7 +197,29 @@ Beobachter an einem *anderen* Ort in der Wellendimension --- in einem «benachba
 
 Die Physik kennt diesen Mechanismus bereits unter dem Namen *Dekohärenz*: die effektive Entkopplung verschiedener Quantenzustände in der Makrowelt. Im vorliegenden Modell ist Dekohärenz kein mysteriöser Prozess, sondern die schlichte Konsequenz räumlicher Trennung in der Wellendimension.
 
-= 6. Die Geometrie der erweiterten Realität
+= 6. Das Ende des Zufalls
+
+Eine unmittelbare Konsequenz dieses Modells betrifft einen der ältesten Streitpunkte der Physik: die Frage, ob Zufall fundamental ist.
+
+In der Kopenhagener Deutung ist Quantenzufall *irreduzibel*. Wenn ein radioaktives Atom zerfällt, gibt es keinen verborgenen Grund --- es passiert einfach, mit einer bestimmten Wahrscheinlichkeit. Einstein widersprach bekanntlich («Gott würfelt nicht»), und Bells Theorem (1964) schien ihm zu widersprechen: Es gibt keine *lokalen* verborgenen Variablen, die den Zufall deterministisch erklären könnten.
+
+Aber Bell schließt nur *lokale* verborgene Variablen aus --- Variablen, die im selben Raumzeit-Punkt definiert sind wie die Messung. Wenn die «verborgene Variable» eine ganze Dimension ist, in der alle Ergebnisse gleichzeitig und nebeneinander existieren, greift Bells Argument nicht. Niemand würfelt. Der Würfel zeigt alle Zahlen gleichzeitig. Wir sehen nur eine, weil wir an einem bestimmten Ort in der Wellendimension stehen.
+
+=== Zufall als Wahrnehmungsartefakt
+
+Zufall wäre in diesem Modell dasselbe wie der Kollaps: ein Wahrnehmungsartefakt. Nicht fundamental, sondern perspektivisch. Die Wahrscheinlichkeiten der Quantenmechanik wären real --- aber sie würden nicht beschreiben, was *passiert*, sondern was *wir von unserem Standort in der Wellendimension aus sehen können*.
+
+Die Born'sche Regel --- die Vorschrift, dass die Wahrscheinlichkeit eines Messergebnisses dem Betragsquadrat der Wellenfunktion entspricht --- würde eine geometrische Deutung erhalten: Wahrscheinlichkeit wäre ein Maß dafür, wie viele benachbarte Quantenpixel in der Wellendimension dasselbe Ergebnis zeigen. Hohe Wahrscheinlichkeit bedeutet: viele Nachbarpositionen mit diesem Zustand. Niedrige Wahrscheinlichkeit bedeutet: wenige.
+
+=== Determinismus ohne Vorbestimmung
+
+Dies führt zu einer subtilen, aber wichtigen Unterscheidung: Das Modell ist *deterministisch* --- alle Ergebnisse existieren und sind durch die Struktur der fünfdimensionalen Mannigfaltigkeit festgelegt. Aber es ist nicht *vorbestimmt* in dem Sinne, dass ein einzelner Beobachter sein Ergebnis vorhersagen könnte. Denn dafür müsste er seinen eigenen Ort in der Wellendimension kennen --- und genau das kann er nicht, weil er diese Dimension nicht wahrnimmt.
+
+Die Situation ist analog zur Position im Raum: Die Tatsache, dass alle Orte gleichzeitig existieren, macht den Raum deterministisch (kein Ort entsteht «zufällig»). Trotzdem kann ein Beobachter, der nicht weiß, wo er ist, seinen Standort nicht vorhersagen. Unwissen ist nicht dasselbe wie Zufall. Zufall ist das, was Unwissen aus der Perspektive des Unwissenden aussieht.
+
+Eine Analogie aus der Softwareentwicklung verdeutlicht den Punkt: Ein Computer kann keinen echten Zufall erzeugen. Pseudozufallsgeneratoren produzieren deterministische Sequenzen, die *wie* Zufall aussehen, weil der Beobachter den Seed nicht kennt. In diesem Modell ist die Wellendimension der Seed --- und die Quantenmechanik der Pseudozufallsgenerator der Natur.
+
+= 7. Die Geometrie der erweiterten Realität
 
 Wenn die Wellendimension real ist, hat die Realität fünf Dimensionen: drei Raumdimensionen, eine Zeitdimension und eine Wellendimension. Die Signatur dieser Mannigfaltigkeit wäre (−,+,+,+,+) --- eine zeitartige und vier raumartige Dimensionen.
 
@@ -241,7 +263,7 @@ Wenn dieses Prinzip auf fünf Dimensionen erweitert wird, könnte die Aufteilung
 
 Dieses Papier kann zwischen den drei Optionen nicht entscheiden. Es benennt sie als offene Frage.
 
-= 7. Quantenpixel --- die diskrete Struktur der Realität
+= 8. Quantenpixel --- die diskrete Struktur der Realität
 
 Ein roter Faden durchzieht beide Papiere dieser Reihe: die Überzeugung, dass die Natur keine echten Unendlichkeiten und keine echten Kontinua enthält. Wenn das stimmt, ist die gesamte fünfdimensionale Mannigfaltigkeit --- Raum, Zeit und Wellendimension --- diskret.
 
@@ -268,7 +290,7 @@ Wenn dieser Befund auf die gesamte Raumzeit ausgeweitet wird --- wie es die Loop
 
 Dies ist die natürliche Erweiterung des Regularitätsprinzips (Axiom 1): Wenn es keine echten Unendlichkeiten gibt, gibt es auch keine echten Kontinua --- denn ein Kontinuum enthält per Definition unendlich viele Punkte.
 
-= 8. Offene Flanken
+= 9. Offene Flanken
 
 Wie im ersten Papier verlangt die intellektuelle Ehrlichkeit, die Gegenargumente zu benennen:
 
@@ -282,7 +304,7 @@ Wie im ersten Papier verlangt die intellektuelle Ehrlichkeit, die Gegenargumente
   [Dekohärenz erklärt den scheinbaren Kollaps bereits ohne Extradimensionen], [Stark], [Dekohärenz erklärt die *Entkopplung* der Zustände, aber nicht, warum *dieser* Zustand erlebt wird. Im vorliegenden Modell ist die Antwort: weil wir an *diesem Ort* in der Wellendimension sind.],
 )
 
-= 9. Bezug zum Gesamtmodell
+= 10. Bezug zum Gesamtmodell
 
 Die beiden Papiere dieser Reihe verfolgen eine gemeinsame Strategie: Die konsequente Anwendung des Regularitätsprinzips auf verschiedene Bereiche der Physik.
 
@@ -298,7 +320,7 @@ Die Verbindung ist nicht nur thematisch, sondern strukturell: In beiden Fällen 
 
 Das Muster ist dasselbe: Was aus einer niedrigerdimensionalen Perspektive wie ein Bruch aussieht, ist aus einer höherdimensionalen Perspektive glatt.
 
-= 10. Fazit
+= 11. Fazit
 
 Dieses Papier behauptet nicht, dass eine fünfte Dimension existiert. Es stellt eine Frage: Wenn das Regularitätsprinzip den Urknall-Singularität als Artefakt entlarvt --- warum sollte der Wellenfunktionskollaps, der dieselben Merkmale aufweist, eine Ausnahme sein?
 

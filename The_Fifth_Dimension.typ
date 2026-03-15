@@ -197,7 +197,29 @@ Observers at a *different* position in the wave dimension --- in a "neighbouring
 
 Physics already knows this mechanism under the name *decoherence*: the effective decoupling of different quantum states in the macroscopic world. In the present model, decoherence is not a mysterious process, but the simple consequence of spatial separation in the wave dimension.
 
-= 6. The Geometry of Extended Reality
+= 6. The End of Randomness
+
+An immediate consequence of this model concerns one of the oldest disputes in physics: the question of whether randomness is fundamental.
+
+In the Copenhagen interpretation, quantum randomness is *irreducible*. When a radioactive atom decays, there is no hidden reason --- it simply happens, with a certain probability. Einstein famously objected ("God does not play dice"), and Bell's theorem (1964) appeared to prove him wrong: there are no *local* hidden variables that could explain the randomness deterministically.
+
+But Bell only rules out *local* hidden variables --- variables defined at the same spacetime point as the measurement. If the "hidden variable" is an entire dimension in which all outcomes exist simultaneously and side by side, Bell's argument does not apply. Nobody is rolling dice. The die shows all numbers at once. We see only one because we are standing at a particular location in the wave dimension.
+
+=== Randomness as a Perceptual Artefact
+
+In this model, randomness would be the same thing as collapse: a perceptual artefact. Not fundamental, but perspectival. The probabilities of quantum mechanics would be real --- but they would describe not what *happens*, but what *we can see from our position in the wave dimension*.
+
+The Born rule --- the prescription that the probability of a measurement outcome equals the squared modulus of the wave function --- would receive a geometric interpretation: probability would be a measure of how many neighbouring quantum pixels in the wave dimension show the same result. High probability means: many neighbouring positions with this state. Low probability means: few.
+
+=== Determinism Without Predetermination
+
+This leads to a subtle but important distinction: the model is *deterministic* --- all outcomes exist and are fixed by the structure of the five-dimensional manifold. But it is not *predetermined* in the sense that a single observer could predict their outcome. To do so, they would need to know their own location in the wave dimension --- and that is precisely what they cannot do, because they do not perceive this dimension.
+
+The situation is analogous to position in space: the fact that all locations exist simultaneously makes space deterministic (no location arises "randomly"). Yet an observer who does not know where they are cannot predict their position. Ignorance is not the same as randomness. Randomness is what ignorance looks like from the perspective of the ignorant.
+
+An analogy from software development illustrates the point: a computer cannot generate true randomness. Pseudorandom number generators produce deterministic sequences that *look like* randomness because the observer does not know the seed. In this model, the wave dimension is the seed --- and quantum mechanics is nature's pseudorandom number generator.
+
+= 7. The Geometry of Extended Reality
 
 If the wave dimension is real, reality has five dimensions: three spatial dimensions, one time dimension, and one wave dimension. The signature of this manifold would be (−,+,+,+,+) --- one time-like and four space-like dimensions.
 
@@ -241,7 +263,7 @@ If this principle is extended to five dimensions, the division into "three spati
 
 This paper cannot decide among the three options. It names them as an open question.
 
-= 7. Quantum Pixels --- the Discrete Structure of Reality
+= 8. Quantum Pixels --- the Discrete Structure of Reality
 
 A common thread runs through both papers in this series: the conviction that nature contains no true infinities and no true continua. If this is correct, the entire five-dimensional manifold --- space, time, and wave dimension --- is discrete.
 
@@ -268,7 +290,7 @@ If this finding is extended to all of spacetime --- as loop quantum gravity sugg
 
 This is the natural extension of the Regularity Principle (Axiom 1): if there are no true infinities, there are no true continua either --- since a continuum by definition contains infinitely many points.
 
-= 8. Open Flanks
+= 9. Open Flanks
 
 As in the first paper, intellectual honesty demands naming the counterarguments:
 
@@ -282,7 +304,7 @@ As in the first paper, intellectual honesty demands naming the counterarguments:
   [Decoherence already explains the apparent collapse without extra dimensions], [Strong], [Decoherence explains the *decoupling* of states, but not why *this* state is experienced. In the present model, the answer is: because we are at *this location* in the wave dimension.],
 )
 
-= 9. Relation to the Overall Model
+= 10. Relation to the Overall Model
 
 The two papers in this series pursue a common strategy: the consistent application of the Regularity Principle to different areas of physics.
 
@@ -298,7 +320,7 @@ The connection is not merely thematic but structural: in both cases, an apparent
 
 The pattern is the same: what looks like a break from a lower-dimensional perspective is smooth from a higher-dimensional perspective.
 
-= 10. Conclusion
+= 11. Conclusion
 
 This paper does not claim that a fifth dimension exists. It asks a question: if the Regularity Principle exposes the Big Bang singularity as an artefact --- why should the wave function collapse, which exhibits the same features, be an exception?
 
