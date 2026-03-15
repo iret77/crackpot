@@ -198,6 +198,20 @@ Observers at a *different* position in the wave dimension --- in a "neighbouring
 
 Physics already knows this mechanism under the name *decoherence*: the effective decoupling of different quantum states in the macroscopic world. In the present model, decoherence is not a mysterious process, but the simple consequence of spatial separation in the wave dimension.
 
+=== Quantum Interference: The Shadow of the Fifth Dimension
+
+If neighbouring positions in the wave dimension were completely isolated, there would be no empirical trace of the fifth dimension. But the isolation is not complete --- it depends on the size of the system. On microscopic scales, the phase coherence between neighbouring positions is still intact. And it is precisely there that we observe quantum interference.
+
+The double-slit experiment provides the clearest illustration: individual electrons are sent through two slits. Each electron arrives as a single point on the detector. But after many repetitions, an interference pattern emerges --- fringes that only appear if the electron "passes through both slits simultaneously."
+
+In the present model: the electron does not pass through both slits in the same cross-section of the wave dimension. It passes through slit A at our position and through slit B at a neighbouring position. The two positions are close enough that their phase coherence is still intact --- decoherence has not yet taken effect at this microscopic scale.
+
+The interference pattern is then literally the *shadow* of the wave dimension on our detector screen. The fringes reveal the geometry of the fifth dimension --- like light and dark on a wall reveal the shape of an object that cannot be seen directly.
+
+And here lies the empirical point: when a detector is placed at one of the slits --- when one "looks" to see which path the electron takes --- the interference pattern vanishes. The Copenhagen interpretation says: "The measurement collapses the wave function." The present model says: the measurement produces decoherence. It destroys the phase coherence between neighbouring positions in the wave dimension. The connection is severed. The shadow disappears.
+
+Quantum interference is not proof of the wave dimension. But it is exactly what one *would expect* if the wave dimension is real: an indirect signal from a dimension we cannot directly perceive, which vanishes precisely when decoherence severs the connection.
+
 = 6. The End of Randomness
 
 An immediate consequence of this model concerns one of the oldest disputes in physics: the question of whether randomness is fundamental.

@@ -198,6 +198,20 @@ Beobachter an einem *anderen* Ort in der Wellendimension --- in einem «benachba
 
 Die Physik kennt diesen Mechanismus bereits unter dem Namen *Dekohärenz*: die effektive Entkopplung verschiedener Quantenzustände in der Makrowelt. Im vorliegenden Modell ist Dekohärenz kein mysteriöser Prozess, sondern die schlichte Konsequenz räumlicher Trennung in der Wellendimension.
 
+=== Quanteninterferenz: Der Schatten der fünften Dimension
+
+Wenn benachbarte Positionen in der Wellendimension vollständig isoliert wären, gäbe es keine empirische Spur der fünften Dimension. Aber die Isolation ist nicht vollständig --- sie hängt von der Größe des Systems ab. Auf mikroskopischer Skala ist die Phasenkohärenz zwischen benachbarten Positionen noch intakt. Und genau dort beobachten wir Quanteninterferenz.
+
+Das Doppelspaltexperiment liefert die klarste Illustration: Einzelne Elektronen werden durch zwei Spalte geschickt. Jedes Elektron trifft als einzelner Punkt auf dem Detektor auf. Aber nach vielen Wiederholungen entsteht ein Interferenzmuster --- Streifen, die nur dann erscheinen, wenn das Elektron «durch beide Spalte gleichzeitig» geht.
+
+Im vorliegenden Modell: Das Elektron geht nicht durch beide Spalte im selben Schnitt der Wellendimension. Es geht durch Spalt A an unserer Position und durch Spalt B an einer benachbarten Position. Die beiden Positionen sind so nah beieinander, dass ihre Phasenkohärenz noch intakt ist --- die Dekohärenz hat auf dieser mikroskopischen Skala noch nicht gegriffen.
+
+Das Interferenzmuster ist dann buchstäblich der *Schatten* der Wellendimension auf unserem Detektorschirm. Die Streifen zeigen die Geometrie der fünften Dimension --- wie Licht und Dunkel auf einer Wand die Form eines Objekts verraten, das man nicht direkt sehen kann.
+
+Und hier liegt die empirische Pointe: Wenn ein Detektor an einem der Spalte platziert wird --- wenn «nachgeschaut» wird, welchen Weg das Elektron nimmt --- verschwindet das Interferenzmuster. Die Kopenhagener Deutung sagt: «Die Messung kollabiert die Wellenfunktion.» Das vorliegende Modell sagt: Die Messung erzeugt Dekohärenz. Sie zerstört die Phasenkohärenz zwischen den benachbarten Positionen in der Wellendimension. Die Verbindung wird gekappt. Der Schatten verschwindet.
+
+Quanteninterferenz ist kein Beweis für die Wellendimension. Aber sie ist exakt das, was man *erwarten* würde, wenn die Wellendimension real ist: ein indirektes Signal aus einer Dimension, die wir nicht direkt wahrnehmen können, das genau dann verschwindet, wenn die Dekohärenz die Verbindung trennt.
+
 = 6. Das Ende des Zufalls
 
 Eine unmittelbare Konsequenz dieses Modells betrifft einen der ältesten Streitpunkte der Physik: die Frage, ob Zufall fundamental ist.
