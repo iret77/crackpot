@@ -212,7 +212,27 @@ Und hier liegt die empirische Pointe: Wenn ein Detektor an einem der Spalte plat
 
 Quanteninterferenz ist kein Beweis für die Wellendimension. Aber sie ist exakt das, was man *erwarten* würde, wenn die Wellendimension real ist: ein indirektes Signal aus einer Dimension, die wir nicht direkt wahrnehmen können, das genau dann verschwindet, wenn die Dekohärenz die Verbindung trennt.
 
-= 6. Das Ende des Zufalls
+= 6. Verschränkung ohne Fernwirkung
+
+Quantenverschränkung ist das Phänomen, das dieses Gedankenexperiment ursprünglich motiviert hat. Zwei Teilchen, die einmal miteinander wechselgewirkt haben, zeigen danach perfekt korrelierte Messergebnisse --- unabhängig davon, wie weit sie räumlich voneinander entfernt sind. Einstein nannte dies «spukhafte Fernwirkung» und betrachtete es als Zeichen, dass die Quantenmechanik unvollständig sei.
+
+Die Kopenhagener Deutung erklärt die Korrelation nicht. Sie postuliert sie: Bei der Messung an einem der beiden Teilchen «kollabiert» die gemeinsame Wellenfunktion instantan, und das andere Teilchen «weiß» sofort, welchen Zustand es zeigen muss. Wie diese Information über beliebige Entfernungen übertragen wird --- ohne Signal, ohne Zeitverzögerung, ohne bekannten Mechanismus --- bleibt offen.
+
+Im vorliegenden Modell verschwindet das Rätsel.
+
+Zwei verschränkte Teilchen sind nicht über eine geheimnisvolle Fernverbindung korreliert. Sie teilen dieselbe Position in der Wellendimension. Ihre Korrelation ist keine Fernwirkung, sondern *Nachbarschaft* --- nicht in den drei Raumdimensionen, sondern in der fünften Dimension. Wenn an einem Teilchen eine Messung durchgeführt wird, «sieht» der Beobachter den Zustand an seiner Position in der Wellendimension. Weil das andere Teilchen dieselbe Position in der Wellendimension teilt, zeigt es den korrelierten Zustand. Es muss keine Information übertragen werden, weil es nichts zu übertragen gibt --- die Korrelation war von Anfang an da, als gemeinsame Koordinate in der fünften Dimension.
+
+Die Situation ist so «spukhaft» wie die Tatsache, dass beide Seiten einer Münze korreliert sind. Niemand fragt, wie die Unterseite «weiß», dass sie Zahl zeigen muss, wenn die Oberseite Kopf zeigt. Die Korrelation ist keine Wirkung --- sie ist Geometrie.
+
+=== Das Messproblem als Bonus
+
+Die Verschränkung führt direkt zum zweiten Problem, das in diesem Modell verschwindet: das *Messproblem*.
+
+Die Kopenhagener Deutung definiert nicht, was eine «Messung» ist. Die Schrödinger-Gleichung beschreibt die glatte Entwicklung eines Systems. Der Kollaps unterbricht sie. Aber *wann genau* findet der Kollaps statt? Beim Detektor? Beim Auge? Beim Bewusstsein? John Bell --- der Physiker, dessen Theorem die Grundlage der modernen Verschränkungsexperimente bildet --- formulierte es so: _«The word 'measurement' has had such a damaging effect on the discussion that it should be banned altogether in quantum mechanics.»_
+
+Im vorliegenden Modell gibt es kein Messproblem, weil es keinen Kollaps gibt. Die Schrödinger-Gleichung gilt immer und überall. Was Kopenhagen «Messung» nennt, ist der Moment, in dem Dekohärenz die Phasenkohärenz zwischen benachbarten Positionen in der Wellendimension zerstört. Das ist ein physikalischer Prozess mit einem berechenbaren Zeitpunkt --- kein mysteriöser Sprung, der eine undefinierte «Messung» erfordert.
+
+= 7. Das Ende des Zufalls
 
 Eine unmittelbare Konsequenz dieses Modells betrifft einen der ältesten Streitpunkte der Physik: die Frage, ob Zufall fundamental ist.
 
@@ -234,7 +254,7 @@ Die Situation ist analog zur Position im Raum: Die Tatsache, dass alle Orte glei
 
 Eine Analogie aus der Softwareentwicklung verdeutlicht den Punkt: Ein Computer kann keinen echten Zufall erzeugen. Pseudozufallsgeneratoren produzieren deterministische Sequenzen, die *wie* Zufall aussehen, weil der Beobachter den Seed nicht kennt. In diesem Modell ist die Wellendimension der Seed --- und die Quantenmechanik der Pseudozufallsgenerator der Natur.
 
-= 7. Die Geometrie der erweiterten Realität
+= 8. Die Geometrie der erweiterten Realität
 
 Wenn die Wellendimension real ist, hat die Realität fünf Dimensionen: drei Raumdimensionen, eine Zeitdimension und eine Wellendimension. Die Signatur dieser Mannigfaltigkeit wäre (−,+,+,+,+) --- eine zeitartige und vier raumartige Dimensionen.
 
@@ -278,7 +298,7 @@ Wenn dieses Prinzip auf fünf Dimensionen erweitert wird, könnte die Aufteilung
 
 Dieses Papier kann zwischen den drei Optionen nicht entscheiden. Es benennt sie als offene Frage.
 
-= 8. Quantenpixel --- die diskrete Struktur der Realität
+= 9. Quantenpixel --- die diskrete Struktur der Realität
 
 Ein roter Faden durchzieht beide Papiere dieser Reihe: die Überzeugung, dass die Natur keine echten Unendlichkeiten und keine echten Kontinua enthält. Wenn das stimmt, ist die gesamte fünfdimensionale Mannigfaltigkeit --- Raum, Zeit und Wellendimension --- diskret.
 
@@ -303,9 +323,11 @@ Wenn dieser Befund auf die gesamte Raumzeit ausgeweitet wird --- wie es die Loop
   _Die Realität besteht aus einer endlichen Menge diskreter Punkte in einer fünfdimensionalen Mannigfaltigkeit. Es gibt keine echten Kontinua, keine unendlich feinen Unterteilungen, keine physikalisch realen Zwischenzustände. Was wir als «glatten Raum» und «stetige Zeit» erleben, ist die makroskopische Approximation einer fundamentalen diskreten Struktur._
 ]
 
+Der Begriff «Quantenpixel» ist bewusst gewählt und bewusst ungenau. «Pixel» bezeichnet ein zweidimensionales Bildelement, «Voxel» ein dreidimensionales Volumenelement. Ein fünfdimensionales diskretes Element müsste --- der Konvention folgend, die fünfdimensionale Hyperwürfel als «Penterakte» bezeichnet --- eher «Pexel» oder «Qexel» heißen. Dieser Text verwendet «Quantenpixel», weil der Begriff sofort verstanden wird und das Wesentliche transportiert: diskret, minimal, fundamental.
+
 Dies ist die natürliche Erweiterung des Regularitätsprinzips (Axiom 1): Wenn es keine echten Unendlichkeiten gibt, gibt es auch keine echten Kontinua --- denn ein Kontinuum enthält per Definition unendlich viele Punkte.
 
-= 9. Offene Flanken
+= 10. Offene Flanken
 
 Wie im ersten Papier verlangt die intellektuelle Ehrlichkeit, die Gegenargumente zu benennen:
 
@@ -319,7 +341,7 @@ Wie im ersten Papier verlangt die intellektuelle Ehrlichkeit, die Gegenargumente
   [Dekohärenz erklärt den scheinbaren Kollaps bereits ohne Extradimensionen], [Stark], [Dekohärenz erklärt die *Entkopplung* der Zustände, aber nicht, warum *dieser* Zustand erlebt wird. Im vorliegenden Modell ist die Antwort: weil wir an *diesem Ort* in der Wellendimension sind.],
 )
 
-= 10. Bezug zum Gesamtmodell
+= 11. Bezug zum Gesamtmodell
 
 Die beiden Papiere dieser Reihe verfolgen eine gemeinsame Strategie: Die konsequente Anwendung des Regularitätsprinzips auf verschiedene Bereiche der Physik.
 
@@ -335,7 +357,7 @@ Die Verbindung ist nicht nur thematisch, sondern strukturell: In beiden Fällen 
 
 Das Muster ist dasselbe: Was aus einer niedrigerdimensionalen Perspektive wie ein Bruch aussieht, ist aus einer höherdimensionalen Perspektive glatt.
 
-= 11. Fazit
+= 12. Fazit
 
 Dieses Papier behauptet nicht, dass eine fünfte Dimension existiert. Es stellt eine Frage: Wenn das Regularitätsprinzip den Urknall-Singularität als Artefakt entlarvt --- warum sollte der Wellenfunktionskollaps, der dieselben Merkmale aufweist, eine Ausnahme sein?
 

@@ -212,7 +212,27 @@ And here lies the empirical point: when a detector is placed at one of the slits
 
 Quantum interference is not proof of the wave dimension. But it is exactly what one *would expect* if the wave dimension is real: an indirect signal from a dimension we cannot directly perceive, which vanishes precisely when decoherence severs the connection.
 
-= 6. The End of Randomness
+= 6. Entanglement Without Action at a Distance
+
+Quantum entanglement is the phenomenon that originally motivated this thought experiment. Two particles that have once interacted subsequently show perfectly correlated measurement results --- regardless of how far apart they are in space. Einstein called this "spooky action at a distance" and considered it a sign that quantum mechanics was incomplete.
+
+The Copenhagen interpretation does not explain the correlation. It postulates it: upon measurement of one of the two particles, the joint wave function "collapses" instantaneously, and the other particle "knows" immediately which state to display. How this information is transmitted across arbitrary distances --- without a signal, without time delay, without any known mechanism --- remains unanswered.
+
+In the present model, the puzzle disappears.
+
+Two entangled particles are not correlated via a mysterious long-distance connection. They share the same position in the wave dimension. Their correlation is not action at a distance, but *proximity* --- not in the three spatial dimensions, but in the fifth dimension. When a measurement is performed on one particle, the observer "sees" the state at their position in the wave dimension. Because the other particle shares the same position in the wave dimension, it shows the correlated state. No information needs to be transmitted, because there is nothing to transmit --- the correlation was there from the beginning, as a shared coordinate in the fifth dimension.
+
+The situation is as "spooky" as the fact that both sides of a coin are correlated. Nobody asks how the underside "knows" it must show tails when the top shows heads. The correlation is not an effect --- it is geometry.
+
+=== The Measurement Problem as a Bonus
+
+Entanglement leads directly to the second problem that vanishes in this model: the *measurement problem*.
+
+The Copenhagen interpretation does not define what a "measurement" is. The Schrödinger equation describes the smooth evolution of a system. Collapse interrupts it. But *when exactly* does collapse occur? At the detector? At the eye? At consciousness? John Bell --- the physicist whose theorem forms the basis of modern entanglement experiments --- put it this way: _"The word 'measurement' has had such a damaging effect on the discussion that it should be banned altogether in quantum mechanics."_
+
+In the present model, there is no measurement problem, because there is no collapse. The Schrödinger equation holds always and everywhere. What Copenhagen calls "measurement" is the moment when decoherence destroys the phase coherence between neighbouring positions in the wave dimension. This is a physical process with a calculable time point --- not a mysterious jump requiring an undefined "measurement."
+
+= 7. The End of Randomness
 
 An immediate consequence of this model concerns one of the oldest disputes in physics: the question of whether randomness is fundamental.
 
@@ -234,7 +254,7 @@ The situation is analogous to position in space: the fact that all locations exi
 
 An analogy from software development illustrates the point: a computer cannot generate true randomness. Pseudorandom number generators produce deterministic sequences that *look like* randomness because the observer does not know the seed. In this model, the wave dimension is the seed --- and quantum mechanics is nature's pseudorandom number generator.
 
-= 7. The Geometry of Extended Reality
+= 8. The Geometry of Extended Reality
 
 If the wave dimension is real, reality has five dimensions: three spatial dimensions, one time dimension, and one wave dimension. The signature of this manifold would be (−,+,+,+,+) --- one time-like and four space-like dimensions.
 
@@ -278,7 +298,7 @@ If this principle is extended to five dimensions, the division into "three spati
 
 This paper cannot decide among the three options. It names them as an open question.
 
-= 8. Quantum Pixels --- the Discrete Structure of Reality
+= 9. Quantum Pixels --- the Discrete Structure of Reality
 
 A common thread runs through both papers in this series: the conviction that nature contains no true infinities and no true continua. If this is correct, the entire five-dimensional manifold --- space, time, and wave dimension --- is discrete.
 
@@ -303,9 +323,11 @@ If this finding is extended to all of spacetime --- as loop quantum gravity sugg
   _Reality consists of a finite set of discrete points in a five-dimensional manifold. There are no true continua, no infinitely fine subdivisions, no physically real intermediate states. What we experience as "smooth space" and "continuous time" is the macroscopic approximation of a fundamentally discrete structure._
 ]
 
+The term "quantum pixel" is deliberately chosen and deliberately imprecise. "Pixel" denotes a two-dimensional picture element, "voxel" a three-dimensional volume element. A five-dimensional discrete element would --- following the convention that names five-dimensional hypercubes "penteracts" --- more properly be called a "pexel" or "qexel." This text uses "quantum pixel" because the term is immediately understood and conveys the essential idea: discrete, minimal, fundamental.
+
 This is the natural extension of the Regularity Principle (Axiom 1): if there are no true infinities, there are no true continua either --- since a continuum by definition contains infinitely many points.
 
-= 9. Open Flanks
+= 10. Open Flanks
 
 As in the first paper, intellectual honesty demands naming the counterarguments:
 
@@ -319,7 +341,7 @@ As in the first paper, intellectual honesty demands naming the counterarguments:
   [Decoherence already explains the apparent collapse without extra dimensions], [Strong], [Decoherence explains the *decoupling* of states, but not why *this* state is experienced. In the present model, the answer is: because we are at *this location* in the wave dimension.],
 )
 
-= 10. Relation to the Overall Model
+= 11. Relation to the Overall Model
 
 The two papers in this series pursue a common strategy: the consistent application of the Regularity Principle to different areas of physics.
 
@@ -335,7 +357,7 @@ The connection is not merely thematic but structural: in both cases, an apparent
 
 The pattern is the same: what looks like a break from a lower-dimensional perspective is smooth from a higher-dimensional perspective.
 
-= 11. Conclusion
+= 12. Conclusion
 
 This paper does not claim that a fifth dimension exists. It asks a question: if the Regularity Principle exposes the Big Bang singularity as an artefact --- why should the wave function collapse, which exhibits the same features, be an exception?
 
