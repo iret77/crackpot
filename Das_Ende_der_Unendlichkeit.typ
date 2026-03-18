@@ -242,7 +242,7 @@ Wenn die Raumzeit diskret ist, hat die Diskretheit Konsequenzen für die Ausbrei
 
 Tatsächlich wird genau das bereits gesucht: Der Fermi-Gammastrahlen-Satellit hat versucht, Ankunftszeitunterschiede zwischen verschiedenen Wellenlängen in Gammablitzen nachzuweisen. Bisher: keine Evidenz. Die Messgrenzen liegen nahe an der Planck-Skala, aber haben sie noch nicht erreicht.
 
-Das ist ein Zweischneidig: Wenn die Diskretheit nachgewiesen wird, stützt das Axiom 2. Wenn sie bei der Planck-Skala nicht nachgewiesen wird, könnte die Diskretheit entweder nicht existieren --- oder die Wellendimension könnte die Dispersion absorbieren (ein Effekt, der im vorliegenden Modell denkbar wäre, aber nicht quantitativ vorhergesagt werden kann).
+Das ist ein zweischneidiges Schwert: Wenn die Diskretheit nachgewiesen wird, stützt das Axiom 2. Wenn sie bei der Planck-Skala nicht nachgewiesen wird, könnte die Diskretheit entweder nicht existieren --- oder die Wellendimension könnte die Dispersion absorbieren (ein Effekt, der im vorliegenden Modell denkbar wäre, aber nicht quantitativ vorhergesagt werden kann).
 
 = 7. Offene Flanken
 
