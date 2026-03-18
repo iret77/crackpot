@@ -274,7 +274,7 @@ Die Antwort könnte sein, dass die Standardannahme richtig ist. Aber sie könnte
 
 == Ausblick
 
-Das hier formulierte Regularitätsprinzip und das Messbarkeitskriterium sind nicht auf die Kosmologie beschränkt. Die Frage, ob die Natur echte Unendlichkeiten oder Diskontinuitäten enthält, stellt sich überall dort, wo mathematische Modelle singuläres Verhalten produzieren --- einschließlich der Quantenmechanik, wo der Kollaps der Wellenfunktion als instantaner, nicht-unitärer Prozess eine strukturelle Verwandtschaft zur kosmologischen Singularität aufweist. Ob das Symmetrieprinzip, das hier auf die Raumzeit angewandt wurde, auch auf andere Aspekte der physikalischen Realität anwendbar ist, wird Gegenstand einer Folgearbeit sein.
+Das hier formulierte Regularitätsprinzip und das Messbarkeitskriterium sind nicht auf die Kosmologie beschränkt. Die Frage, ob die Natur echte Unendlichkeiten oder Diskontinuitäten enthält, stellt sich überall dort, wo mathematische Modelle singuläres Verhalten produzieren --- einschließlich der Quantenmechanik, wo der Kollaps der Wellenfunktion als instantaner, nicht-unitärer Prozess eine strukturelle Verwandtschaft zur kosmologischen Singularität aufweist. Ob das Symmetrieprinzip, das hier auf die Raumzeit angewandt wurde, auch auf andere Aspekte der physikalischen Realität anwendbar ist, wird Gegenstand des nächsten Papiers sein.
 
 #v(1cm)
 #line(length: 100%, stroke: 0.5pt + luma(200))

@@ -261,7 +261,7 @@ The answer may be that the default assumption is correct. But it could also be a
 
 == Outlook
 
-The Regularity Principle and the Measurability Criterion formulated here are not limited to cosmology. The question of whether nature contains true infinities or discontinuities arises wherever mathematical models produce singular behaviour --- including quantum mechanics, where the collapse of the wave function as an instantaneous, non-unitary process bears a structural kinship to the cosmological singularity. Whether the symmetry principle applied here to spacetime is also applicable to other aspects of physical reality will be the subject of a subsequent work.
+The Regularity Principle and the Measurability Criterion formulated here are not limited to cosmology. The question of whether nature contains true infinities or discontinuities arises wherever mathematical models produce singular behaviour --- including quantum mechanics, where the collapse of the wave function as an instantaneous, non-unitary process bears a structural kinship to the cosmological singularity. Whether the symmetry principle applied here to spacetime is also applicable to other aspects of physical reality will be the subject of the next paper in this series.
 
 #v(1cm)
 #line(length: 100%, stroke: 0.5pt + luma(200))

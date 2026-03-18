@@ -80,14 +80,14 @@
   stroke: (left: 3pt + luma(100)),
   fill: luma(248),
 )[
-  _Dieses Papier baut auf dem Regularitätsprinzip und dem Messbarkeitskriterium auf, die im ersten Papier dieser Reihe formuliert wurden («Die banale Hypothese, die keiner aufstellt»). Vertrautheit mit diesen Konzepten wird vorausgesetzt._
+  _Dieses Papier baut auf dem Regularitätsprinzip und dem Messbarkeitskriterium auf, die im zweiten Papier dieser Reihe formuliert wurden («Die banale Hypothese, die keiner aufstellt»). Vertrautheit mit den Konzepten aus Paper 1 und 2 wird vorausgesetzt._
 ]
 
 #v(0.5cm)
 
 = 1. Die zweite Singularität
 
-Das erste Papier dieser Reihe behandelte eine Singularität in der Kosmologie --- den Urknall als Punkt unendlicher Dichte. Es argumentierte, dass diese Singularität ein Artefakt unvollständiger Theorie sein dürfte, kein Feature der Realität.
+Das zweite Papier dieser Reihe behandelte eine Singularität in der Kosmologie --- den Urknall als Punkt unendlicher Dichte. Es argumentierte, dass diese Singularität ein Artefakt unvollständiger Theorie sein dürfte, kein Feature der Realität.
 
 Die Quantenmechanik enthält eine strukturell verwandte Diskontinuität: den Kollaps der Wellenfunktion.
 
@@ -105,7 +105,7 @@ Dieser Kollaps hat bemerkenswerte Eigenschaften:
   [Prinzipiell nicht beobachtbar (nur das Ergebnis)], [Prinzipiell nicht beobachtbar],
 )
 
-Das Messbarkeitskriterium aus Papier 1 greift hier direkt: Der Kollaps selbst --- der Übergang von «alle Zustände gleichzeitig» zu «ein Zustand» --- ist nicht beobachtbar. Wir sehen nur das Ergebnis. Der Prozess entzieht sich jeder Messung.
+Das Messbarkeitskriterium aus Papier 2 greift hier direkt: Der Kollaps selbst --- der Übergang von «alle Zustände gleichzeitig» zu «ein Zustand» --- ist nicht beobachtbar. Wir sehen nur das Ergebnis. Der Prozess entzieht sich jeder Messung.
 
 Wenn das Regularitätsprinzip universell gilt --- «die Natur enthält keine echten Unendlichkeiten oder Diskontinuitäten» --- dann ist der Wellenfunktionskollaps, ebenso wie die Urknall-Singularität, ein Artefakt. Die Frage ist: ein Artefakt wovon?
 
@@ -300,7 +300,7 @@ Dieses Papier kann zwischen den drei Optionen nicht entscheiden. Es benennt sie 
 
 = 9. Quantenpixel --- die diskrete Struktur der Realität
 
-Ein roter Faden durchzieht beide Papiere dieser Reihe: die Überzeugung, dass die Natur keine echten Unendlichkeiten und keine echten Kontinua enthält. Wenn das stimmt, ist die gesamte fünfdimensionale Mannigfaltigkeit --- Raum, Zeit und Wellendimension --- diskret.
+Ein roter Faden durchzieht die bisherigen Papiere dieser Reihe: die Überzeugung, dass die Natur keine echten Unendlichkeiten und keine echten Kontinua enthält. Wenn das stimmt, ist die gesamte fünfdimensionale Mannigfaltigkeit --- Raum, Zeit und Wellendimension --- diskret.
 
 Die Frage «Was ist Bewegung?» wird in einem diskreten Universum fundamental anders beantwortet als in einem kontinuierlichen:
 
@@ -329,7 +329,7 @@ Dies ist die natürliche Erweiterung des Regularitätsprinzips (Axiom 1): Wenn e
 
 = 10. Offene Flanken
 
-Wie im ersten Papier verlangt die intellektuelle Ehrlichkeit, die Gegenargumente zu benennen:
+Wie im zweiten Papier verlangt die intellektuelle Ehrlichkeit, die Gegenargumente zu benennen:
 
 #table(
   columns: (1fr, 0.5fr, 1.5fr),
@@ -343,14 +343,14 @@ Wie im ersten Papier verlangt die intellektuelle Ehrlichkeit, die Gegenargumente
 
 = 11. Bezug zum Gesamtmodell
 
-Die beiden Papiere dieser Reihe verfolgen eine gemeinsame Strategie: Die konsequente Anwendung des Regularitätsprinzips auf verschiedene Bereiche der Physik.
+Die bisherigen Papiere dieser Reihe verfolgen eine gemeinsame Strategie: Die konsequente Anwendung des Regularitätsprinzips auf verschiedene Bereiche der Physik.
 
 #table(
   columns: (1fr, 1fr, 1fr),
   [Bereich], [Diskontinuität], [Auflösung durch das Regularitätsprinzip],
-  [Kosmologie (Paper 1)], [Urknall-Singularität], [Koordinatenartefakt auf einer glatten, geschlossenen Mannigfaltigkeit],
-  [Quantenmechanik (Paper 2)], [Wellenfunktions-Kollaps], [Wahrnehmungsartefakt --- Schnitt durch eine höherdimensionale Realität],
-  [Raumzeitstruktur (Paper 1 + 2)], [Kontinuum-Annahme], [Diskrete Quantenpixel in fünf Dimensionen],
+  [Kosmologie (Paper 2)], [Urknall-Singularität], [Koordinatenartefakt auf einer glatten, geschlossenen Mannigfaltigkeit],
+  [Quantenmechanik (Paper 3)], [Wellenfunktions-Kollaps], [Wahrnehmungsartefakt --- Schnitt durch eine höherdimensionale Realität],
+  [Raumzeitstruktur (Paper 2 + 3)], [Kontinuum-Annahme], [Diskrete Quantenpixel in fünf Dimensionen],
 )
 
 Die Verbindung ist nicht nur thematisch, sondern strukturell: In beiden Fällen wird eine scheinbare Diskontinuität aufgelöst, indem die Realität um eine Dimension erweitert wird. Im ersten Fall wird die zeitliche Singularität des Urknalls durch eine geschlossene Raumzeit-Topologie geglättet. Im zweiten Fall wird die Diskontinuität des Kollapses durch eine zusätzliche Dimension aufgelöst, in der alle Zustände koexistieren.
@@ -361,7 +361,7 @@ Das Muster ist dasselbe: Was aus einer niedrigerdimensionalen Perspektive wie ei
 
 Dieses Papier behauptet nicht, dass eine fünfte Dimension existiert. Es stellt eine Frage: Wenn das Regularitätsprinzip den Urknall-Singularität als Artefakt entlarvt --- warum sollte der Wellenfunktionskollaps, der dieselben Merkmale aufweist, eine Ausnahme sein?
 
-Die vorgeschlagene Antwort --- eine reale, raumartige, diskrete Wellendimension --- ist spekulativ. Aber sie ist *intern konsistent*: Sie folgt aus denselben Prinzipien wie die Argumentation in Paper 1, sie erklärt die Konsistenz zwischen Beobachtern, und sie liefert eine evolutionäre Erklärung für die Nicht-Wahrnehmbarkeit.
+Die vorgeschlagene Antwort --- eine reale, raumartige, diskrete Wellendimension --- ist spekulativ. Aber sie ist *intern konsistent*: Sie folgt aus denselben Prinzipien wie die Argumentation in Paper 2, sie erklärt die Konsistenz zwischen Beobachtern, und sie liefert eine evolutionäre Erklärung für die Nicht-Wahrnehmbarkeit.
 
 Die verbleibende offene Frage --- ob die fünf Dimensionen eine einheitliche Geometrie bilden oder nicht --- ist möglicherweise die wichtigste Frage, die dieses Gedankenexperiment aufwirft. Ihre Beantwortung würde die Verbindung zwischen Gravitation und Quantenmechanik betreffen --- das zentrale ungelöste Problem der theoretischen Physik.
 

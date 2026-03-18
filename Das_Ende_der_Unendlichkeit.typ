@@ -80,7 +80,7 @@
   stroke: (left: 3pt + luma(100)),
   fill: luma(248),
 )[
-  _Dieses Papier baut auf dem Regularitätsprinzip (Axiom 1) und den Quantenpixeln (Axiom 2) auf, die in den ersten beiden Papieren dieser Reihe formuliert wurden. Vertrautheit mit «Die banale Hypothese, die keiner aufstellt» und «Die fünfte Dimension» wird vorausgesetzt._
+  _Dieses Papier baut auf dem Regularitätsprinzip (Axiom 1) und den Quantenpixeln (Axiom 2) auf, die in den vorherigen Papieren dieser Reihe formuliert wurden. Vertrautheit mit Paper 2 («Die banale Hypothese, die keiner aufstellt») und Paper 3 («Die fünfte Dimension») wird vorausgesetzt._
 ]
 
 #v(0.5cm)
@@ -103,9 +103,9 @@ Die Standardfrage lautet: «Wie quantisiert man die Gravitation?» Das setzt vor
 
 Aber diese Voraussetzung ist eine Annahme, kein Theorem.
 
-Die ersten beiden Papiere dieser Reihe haben ein alternatives Bild entwickelt: Quantenphänomene sind nicht fundamental. Sie sind geometrisch. Der Wellenfunktionskollaps ist kein physikalischer Prozess, sondern ein Wahrnehmungsartefakt --- der Schnitt unserer Perspektive durch eine höherdimensionale Realität. Die Born'sche Regel ist keine metaphysische Setzung, sondern eine geometrische Konsequenz der Nachbarschaftsstruktur in der Wellendimension. Verschränkung ist keine «spukhafte Fernwirkung», sondern Nachbarschaft in der fünften Dimension.
+Die vorherigen Papiere dieser Reihe haben ein alternatives Bild entwickelt: Quantenphänomene sind nicht fundamental. Sie sind geometrisch. Der Wellenfunktionskollaps ist kein physikalischer Prozess, sondern ein Wahrnehmungsartefakt --- der Schnitt unserer Perspektive durch eine höherdimensionale Realität. Die Born'sche Regel ist keine metaphysische Setzung, sondern eine geometrische Konsequenz der Nachbarschaftsstruktur in der Wellendimension. Verschränkung ist keine «spukhafte Fernwirkung», sondern Nachbarschaft in der fünften Dimension.
 
-Wenn das stimmt --- wenn Quantenmechanik Geometrie *ist* --- dann ist die Frage «wie quantisiert man die Gravitation?» falsch gestellt. Man quantisiert Gravitation nicht, weil es nichts zu quantisieren gibt. Die Gravitation ist Geometrie (das wussten wir seit Einstein). Und die Quantenmechanik ist ebenfalls Geometrie (das ist die These aus Paper 2). Die Frage ist nicht, wie man die eine in die andere einbettet --- die Frage ist, ob sie verschiedene Aspekte *derselben* Geometrie sind.
+Wenn das stimmt --- wenn Quantenmechanik Geometrie *ist* --- dann ist die Frage «wie quantisiert man die Gravitation?» falsch gestellt. Man quantisiert Gravitation nicht, weil es nichts zu quantisieren gibt. Die Gravitation ist Geometrie (das wussten wir seit Einstein). Und die Quantenmechanik ist ebenfalls Geometrie (das ist die These aus Paper 3). Die Frage ist nicht, wie man die eine in die andere einbettet --- die Frage ist, ob sie verschiedene Aspekte *derselben* Geometrie sind.
 
 === Einsteins unvollendeter Traum
 
@@ -119,7 +119,7 @@ Ob das stimmt, ist offen. Aber wenn es stimmt, verschwindet das Quantengravitati
 
 = 3. Diskretheit als natürlicher Regulator
 
-Unabhängig davon, ob die radikale These aus Abschnitt 2 tragfähig ist, gibt es einen zweiten, konservativeren Weg, auf dem das Modell aus den ersten beiden Papieren das Quantengravitationsproblem berührt.
+Unabhängig davon, ob die radikale These aus Abschnitt 2 tragfähig ist, gibt es einen zweiten, konservativeren Weg, auf dem das Modell aus den vorherigen Papieren das Quantengravitationsproblem berührt.
 
 Das Problem der nicht-renormierbaren Unendlichkeiten in der perturbativen Quantengravitation ist ein *UV-Problem*: Es tritt bei sehr hohen Energien auf, was äquivalent ist zu sehr kleinen Abständen. Die Unendlichkeiten entstehen, weil die Theorie beliebig kleine Abstände zulässt --- im mathematischen Formalismus werden Integrale über alle Impulse ausgeführt, bis hinauf zu unendlich hohen Energien, und es sind diese Integrale, die divergieren.
 
@@ -141,7 +141,7 @@ Die Diskretheit hat einen bekannten Preis: Sie droht, die Lorentz-Invarianz zu v
 
 Dieses Problem ist real und ungelöst --- nicht nur für das vorliegende Modell, sondern für jeden Ansatz, der Diskretheit postuliert. Die Schleifenquantengravitation kämpft damit. Das Causal-Set-Programm (Sorkin) löst es elegant: Wenn die diskreten Punkte zufällig verteilt sind --- als Poisson-Prozess auf der Mannigfaltigkeit --- gibt es keine Vorzugsrichtung. Die Lorentz-Invarianz wird nicht durch ein Gitter, sondern durch Zufall erhalten.
 
-Im vorliegenden Modell ist die Situation subtiler: Zufall existiert nicht fundamental (Paper 2, Abschnitt 7). Die Verteilung der Quantenpixel *sieht* zufällig aus, ist aber durch die Struktur der Wellendimension determiniert. Die Frage ist, ob eine deterministische, aber perspektivisch zufällige Verteilung die Lorentz-Invarianz ebenso effektiv schützt wie echter Zufall. Das ist offen.
+Im vorliegenden Modell ist die Situation subtiler: Zufall existiert nicht fundamental (Paper 3, Abschnitt 7). Die Verteilung der Quantenpixel *sieht* zufällig aus, ist aber durch die Struktur der Wellendimension determiniert. Die Frage ist, ob eine deterministische, aber perspektivisch zufällige Verteilung die Lorentz-Invarianz ebenso effektiv schützt wie echter Zufall. Das ist offen.
 
 = 4. Zur Nummerierung der Dimensionen
 
@@ -151,7 +151,7 @@ Die Nummerierung ist historisch: Drei Raumdimensionen waren seit der Antike beka
 
 Aber die Nummerierung transportiert stillschweigend eine ontologische Hierarchie. «Fünfte Dimension» klingt nach Anbau --- nach etwas, das zu einem fertigen Gebäude hinzukommt. Das framt die Wellendimension als Ergänzung zum bestehenden 4D-Bild.
 
-Die Struktur des Modells legt eine andere Reihenfolge nahe. In Paper 2 ist die Zeit nicht fundamental --- sie ist, wie wir Veränderung wahrnehmen. Die Wellendimension dagegen ist der Raum, in dem die Quantenzustände koexistieren. Sie beschreibt die Struktur der Realität selbst. Die Zeit beschreibt, wie ein Beobachter durch diese Struktur navigiert.
+Die Struktur des Modells legt eine andere Reihenfolge nahe. In Paper 3 ist die Zeit nicht fundamental --- sie ist, wie wir Veränderung wahrnehmen. Die Wellendimension dagegen ist der Raum, in dem die Quantenzustände koexistieren. Sie beschreibt die Struktur der Realität selbst. Die Zeit beschreibt, wie ein Beobachter durch diese Struktur navigiert.
 
 Wenn das stimmt, wäre die «natürliche» Reihenfolge: drei Raumdimensionen, die Wellendimension, die Zeit. Die Wellendimension wäre die vierte, die Zeit die fünfte. Die strukturell fundamentalere Dimension käme vor der wahrnehmungsabhängigeren.
 
@@ -175,7 +175,7 @@ Abgrenzung: Die Stringtheorie akzeptiert die Quantenmechanik als fundamentales F
 
 Die LQG quantisiert die Raumzeit direkt und kommt zu dem Ergebnis, dass Flächen und Volumina diskrete Spektren haben. Es gibt eine minimale Länge (Planck-Länge). Die Urknall-Singularität wird durch einen «Big Bounce» ersetzt.
 
-Berührungspunkt: Beide Modelle postulieren Diskretheit der Raumzeit. Die LQG liefert dafür einen Formalismus; das vorliegende Modell postuliert sie als Axiom. Der Big Bounce der LQG ist strukturell verwandt mit dem glatten Kugelpol aus Paper 1. In beiden Fällen verschwindet die Singularität.
+Berührungspunkt: Beide Modelle postulieren Diskretheit der Raumzeit. Die LQG liefert dafür einen Formalismus; das vorliegende Modell postuliert sie als Axiom. Der Big Bounce der LQG ist strukturell verwandt mit dem glatten Kugelpol aus Paper 2. In beiden Fällen verschwindet die Singularität.
 
 Abgrenzung: Die LQG arbeitet in 4D und hat keine Wellendimension. Sie quantisiert die Gravitation; das vorliegende Modell stellt die Quantisierung als Ansatz in Frage.
 
@@ -201,7 +201,7 @@ Das Causal-Set-Programm postuliert, dass die Raumzeit fundamental eine diskrete 
 
 Berührungspunkt: Die engste strukturelle Verwandtschaft. Beide Modelle postulieren diskrete Punkte als fundamentale Struktur. Das vorliegende Modell erweitert die Idee auf fünf Dimensionen. Die Frage der Lorentz-Invarianz bei diskreter Struktur (Abschnitt 3) ist bei Causal Sets am weitesten untersucht.
 
-Abgrenzung: Causal Sets arbeiten in 4D. Die Rolle von «Zufall» bei der Punktverteilung müsste im vorliegenden Modell durch deterministische, aber perspektivisch zufällige Strukturen ersetzt werden (siehe Paper 2, Abschnitt 7).
+Abgrenzung: Causal Sets arbeiten in 4D. Die Rolle von «Zufall» bei der Punktverteilung müsste im vorliegenden Modell durch deterministische, aber perspektivisch zufällige Strukturen ersetzt werden (siehe Paper 3, Abschnitt 7).
 
 #v(0.5em)
 
@@ -250,7 +250,7 @@ Das ist ein zweischneidiges Schwert: Wenn die Diskretheit nachgewiesen wird, st�
   columns: (1fr, 0.5fr, 1.5fr),
   [Einwand], [Gewicht], [Mögliche Antwort],
   [Kein Formalismus --- keine Metrik, kein Lagrangian, keine Feldgleichungen], [Sehr stark], [Das ist das zentrale Defizit. Ohne Formalismus sind die qualitativen Argumente nicht überprüfbar. Ein mathematischer Physiker müsste die 5D-Metrik aufstellen und zeigen, dass sie endliche Streuamplituden liefert.],
-  [Die Behauptung «Quantenmechanik ist Geometrie» ist vage], [Stark], [Berechtigt. Es gibt keinen Beweis, dass die Born'sche Regel geometrisch ableitbar ist --- nur ein Plausibilitätsargument (Paper 2, Abschnitt 7). Das müsste mathematisch präzisiert werden.],
+  [Die Behauptung «Quantenmechanik ist Geometrie» ist vage], [Stark], [Berechtigt. Es gibt keinen Beweis, dass die Born'sche Regel geometrisch ableitbar ist --- nur ein Plausibilitätsargument (Paper 3, Abschnitt 7). Das müsste mathematisch präzisiert werden.],
   [Lorentz-Invarianz bei diskreter Struktur], [Stark], [Ungelöst --- aber nicht nur für dieses Modell. Causal Sets zeigen, dass eine Lösung prinzipiell möglich ist.],
   [Keine quantitative testbare Vorhersage], [Stark], [Die qualitativen Vorhersagen aus Abschnitt 6 sind ein Anfang, aber für einen Fachphysiker unzureichend. Das ist ehrlich --- und ein Grund, warum dieses Papier «Gedankenexperiment» heißt und nicht «Theorie».],
   [Warum sollte die 5D-Geometrie endliche Gravitonstreuung liefern?], [Sehr stark], [Das ist die Kernfrage, und sie ist nicht beantwortet. Die Diskretheit liefert einen natürlichen UV-Cutoff (Abschnitt 3), aber ob dieser in einer konkreten 5D-Theorie konsistente Ergebnisse liefert, ist eine offene Rechnung.],
@@ -264,12 +264,12 @@ Die drei Papiere dieser Reihe verfolgen eine einzige Strategie: das Regularität
 #table(
   columns: (1fr, 1fr, 1fr),
   [Paper], [Problem], [Auflösung durch das Regularitätsprinzip],
-  [Paper 1 --- Die banale Hypothese], [Urknall-Singularität (Unendlichkeit in der ART)], [Koordinatenartefakt auf glatter, geschlossener Mannigfaltigkeit],
-  [Paper 2 --- Die fünfte Dimension], [Wellenfunktionskollaps (Diskontinuität in der QM)], [Wahrnehmungsartefakt --- Schnitt durch höherdimensionale Realität],
-  [Paper 3 --- Das Ende der Unendlichkeit], [UV-Divergenzen (Unendlichkeiten in der QG)], [Diskretheit eliminiert beliebig kleine Abstände; Geometrisierung eliminiert die falsche Frage],
+  [Paper 2 --- Die banale Hypothese], [Urknall-Singularität (Unendlichkeit in der ART)], [Koordinatenartefakt auf glatter, geschlossener Mannigfaltigkeit],
+  [Paper 3 --- Die fünfte Dimension], [Wellenfunktionskollaps (Diskontinuität in der QM)], [Wahrnehmungsartefakt --- Schnitt durch höherdimensionale Realität],
+  [Paper 4 --- Das Ende der Unendlichkeit], [UV-Divergenzen (Unendlichkeiten in der QG)], [Diskretheit eliminiert beliebig kleine Abstände; Geometrisierung eliminiert die falsche Frage],
 )
 
-Das Muster ist dasselbe: In jedem Fall ist die «Unendlichkeit» oder «Diskontinuität» kein Feature der Natur, sondern ein Artefakt unserer Beschreibung --- sei es eine unvollständige Theorie (Paper 1), eine perspektivische Beschränkung (Paper 2) oder eine falsch gestellte Frage (Paper 3).
+Das Muster ist dasselbe: In jedem Fall ist die «Unendlichkeit» oder «Diskontinuität» kein Feature der Natur, sondern ein Artefakt unserer Beschreibung --- sei es eine unvollständige Theorie (Paper 2), eine perspektivische Beschränkung (Paper 3) oder eine falsch gestellte Frage (Paper 4).
 
 Wenn dieses Muster tragfähig ist, deutet es auf eine tiefere Struktur hin: Die Natur ist regulär, endlich und diskret. Unsere mathematischen Modelle sind es oft nicht --- und die Unendlichkeiten, die sie produzieren, sind Hinweise darauf, wo die Modelle aufhören, die Natur zu beschreiben, und anfangen, sich selbst zu beschreiben.
 

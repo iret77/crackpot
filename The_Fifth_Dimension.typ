@@ -80,14 +80,14 @@
   stroke: (left: 3pt + luma(100)),
   fill: luma(248),
 )[
-  _This paper builds on the Regularity Principle and the Measurability Criterion formulated in the first paper of this series ("The Trivial Hypothesis Nobody Proposes"). Familiarity with those concepts is assumed._
+  _This paper builds on the Regularity Principle and the Measurability Criterion formulated in the second paper of this series ("The Trivial Hypothesis Nobody Proposes"). Familiarity with the concepts from Papers 1 and 2 is assumed._
 ]
 
 #v(0.5cm)
 
 = 1. The Second Singularity
 
-The first paper in this series addressed a singularity in cosmology --- the Big Bang as a point of infinite density. It argued that this singularity is likely an artefact of incomplete theory, not a feature of reality.
+The second paper in this series addressed a singularity in cosmology --- the Big Bang as a point of infinite density. It argued that this singularity is likely an artefact of incomplete theory, not a feature of reality.
 
 Quantum mechanics contains a structurally related discontinuity: the collapse of the wave function.
 
@@ -105,7 +105,7 @@ This collapse has remarkable properties:
   [In principle unobservable (only the result is seen)], [In principle unobservable],
 )
 
-The Measurability Criterion from Paper 1 applies directly: the collapse itself --- the transition from "all states simultaneously" to "one state" --- is not observable. We only see the result. The process eludes every measurement.
+The Measurability Criterion from Paper 2 applies directly: the collapse itself --- the transition from "all states simultaneously" to "one state" --- is not observable. We only see the result. The process eludes every measurement.
 
 If the Regularity Principle holds universally --- "nature contains no true infinities or discontinuities" --- then the wave function collapse, like the Big Bang singularity, is an artefact. The question is: an artefact of what?
 
@@ -300,7 +300,7 @@ This paper cannot decide among the three options. It names them as an open quest
 
 = 9. Quantum Pixels --- the Discrete Structure of Reality
 
-A common thread runs through both papers in this series: the conviction that nature contains no true infinities and no true continua. If this is correct, the entire five-dimensional manifold --- space, time, and wave dimension --- is discrete.
+A common thread runs through the papers in this series so far: the conviction that nature contains no true infinities and no true continua. If this is correct, the entire five-dimensional manifold --- space, time, and wave dimension --- is discrete.
 
 The question "What is motion?" receives a fundamentally different answer in a discrete universe than in a continuous one:
 
@@ -329,7 +329,7 @@ This is the natural extension of the Regularity Principle (Axiom 1): if there ar
 
 = 10. Open Flanks
 
-As in the first paper, intellectual honesty demands naming the counterarguments:
+As in the second paper, intellectual honesty demands naming the counterarguments:
 
 #table(
   columns: (1fr, 0.5fr, 1.5fr),
@@ -343,13 +343,13 @@ As in the first paper, intellectual honesty demands naming the counterarguments:
 
 = 11. Relation to the Overall Model
 
-The two papers in this series pursue a common strategy: the consistent application of the Regularity Principle to different areas of physics.
+The papers in this series so far pursue a common strategy: the consistent application of the Regularity Principle to different areas of physics.
 
 #table(
   columns: (1fr, 1fr, 1fr),
   [Domain], [Discontinuity], [Resolution via the Regularity Principle],
-  [Cosmology (Paper 1)], [Big Bang singularity], [Coordinate artefact on a smooth, closed manifold],
-  [Quantum mechanics (Paper 2)], [Wave function collapse], [Perceptual artefact --- cross-section through a higher-dimensional reality],
+  [Cosmology (Paper 2)], [Big Bang singularity], [Coordinate artefact on a smooth, closed manifold],
+  [Quantum mechanics (Paper 3)], [Wave function collapse], [Perceptual artefact --- cross-section through a higher-dimensional reality],
   [Spacetime structure (Papers 1 + 2)], [Continuum assumption], [Discrete quantum pixels in five dimensions],
 )
 
@@ -361,7 +361,7 @@ The pattern is the same: what looks like a break from a lower-dimensional perspe
 
 This paper does not claim that a fifth dimension exists. It asks a question: if the Regularity Principle exposes the Big Bang singularity as an artefact --- why should the wave function collapse, which exhibits the same features, be an exception?
 
-The proposed answer --- a real, space-like, discrete wave dimension --- is speculative. But it is *internally consistent*: it follows from the same principles as the argumentation in Paper 1, it explains consistency among observers, and it provides an evolutionary explanation for non-perceivability.
+The proposed answer --- a real, space-like, discrete wave dimension --- is speculative. But it is *internally consistent*: it follows from the same principles as the argumentation in Paper 2, it explains consistency among observers, and it provides an evolutionary explanation for non-perceivability.
 
 The remaining open question --- whether the five dimensions form a unified geometry or not --- is possibly the most important question this thought experiment raises. Its answer would concern the connection between gravity and quantum mechanics --- the central unsolved problem of theoretical physics.
 
