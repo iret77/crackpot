@@ -58,7 +58,7 @@ Welche Struktur hat diese Dimension? Die bisherige Argumentation legt vier Eigen
 
 *1. Raumartig, nicht zeitartig.* Die Wellendimension hat keinen Fluss, keine Richtung, keinen «Vorher-Nachher»-Charakter. Die Quantenzustände liegen nebeneinander wie Orte im Raum, nicht wie Momente in der Zeit. Lediglich die Zeitdimension bringt Dynamik ins System.
 
-*2. Diskret, nicht kontinuierlich.* Die Quantenmechanik enthält fundamentale Diskretheit --- Energieniveaus, Spinrichtungen, Teilchenzahlen. Für andere Observablen (Ort, Impuls) verwendet der aktuelle Formalismus kontinuierliche Beschreibungen. Ob diese Kontinuität physikalisch real ist oder eine mathematische Idealisierung, die auf der Planck-Skala zusammenbricht, ist eine offene experimentelle Frage. Das hier postulierte Regularitätsprinzip entscheidet sie: Wenn es keine echten Unendlichkeiten gibt, gibt es auch keine echten Kontinua. Die Diskretheit der Wellendimension --- und aller anderen Dimensionen --- folgt nicht aus der bestehenden QM, sondern aus Axiom 1. Sie ist eine Vorhersage, kein Befund. Es gibt keine beliebig feinen Zwischenzustände, sondern diskrete Positionen --- *Quantenpixel*.
+*2. Diskret, nicht kontinuierlich.* Die Quantenmechanik enthält fundamentale Diskretheit --- Energieniveaus, Spinrichtungen, Teilchenzahlen. Für andere Observablen (Ort, Impuls) verwendet der aktuelle Formalismus kontinuierliche Beschreibungen. Ob diese Kontinuität physikalisch real ist oder eine mathematische Idealisierung, die auf der Planck-Skala zusammenbricht, ist eine offene experimentelle Frage. Das hier postulierte Regularitätsprinzip entscheidet sie: Wenn es keine echten Unendlichkeiten gibt, gibt es auch keine echten Kontinua. Die Diskretheit der Wellendimension --- und aller anderen Dimensionen --- folgt nicht aus der bestehenden QM, sondern aus Axiom 1. Sie ist eine Vorhersage, kein Befund. Es gibt keine beliebig feinen Zwischenzustände, sondern diskrete Positionen --- *Quantenzellen*.
 
 *3. Endlich, nicht unendlich.* Das Regularitätsprinzip verbietet echte Unendlichkeiten. Die Wellendimension enthält daher eine große, aber endliche Zahl diskreter Zustände. Dies steht im Einklang mit der Tatsache, dass physikalische Systeme mit endlicher Energie nur endlich viele zugängliche Zustände haben.
 
@@ -78,7 +78,9 @@ Dies legt nahe, dass die Wellendimension keine grundlegend *andere* Struktur hat
 
 Warum sehen wir nur *ein* Quantenergebnis, wenn alle Zustände koexistieren? Die Antwort des Modells ist zunächst physikalisch: Beobachter und Detektoren sind an einer bestimmten Position in der Wellendimension lokalisiert. Sie sehen den Zustand an *ihrem* Ort --- nicht weil die anderen Zustände verschwinden, sondern weil die Lokalisierung den Zugang auf eine Position beschränkt.
 
-Diese Lokalisierung hat eine biologische Konsequenz, die erklärt, warum kein Organismus die Wellendimension wahrnimmt.
+Die Lokalisierung ist die physikalische Aussage. Sie erklärt, warum ein Detektor, ein Speicherchip oder ein menschlicher Beobachter ein definites Ergebnis registriert --- unabhängig davon, ob Biologie im Spiel ist oder nicht.
+
+Was folgt, ist eine *Konsequenz* dieser Lokalisierung, keine Begründung für sie: die Frage, warum biologische Organismen keinen sensorischen Zugang zur Wellendimension entwickelt haben.
 
 === Wahrnehmung als komprimiertes Interface
 
@@ -123,7 +125,7 @@ Die Antwort folgt direkt aus der Struktur des Modells: Alle Beobachter, die mite
 
 Beobachter an einem *anderen* Ort in der Wellendimension --- in einem «benachbarten Schnitt» --- würden möglicherweise einen leicht anderen Zustand des Universums erleben. Aber sie können nicht mit uns kommunizieren, weil die Kommunikation selbst an den gemeinsamen Schnitt gebunden ist. Dies ist keine Ad-hoc-Annahme, sondern die direkte Konsequenz der Lokalisierung in einer raumartigen Dimension: Wer an verschiedenen Orten ist, kann sich nicht ohne Weiteres austauschen --- genauso wie räumlich getrennte Beobachter sich nur mit endlicher Geschwindigkeit Signale senden können.
 
-Die Physik kennt diesen Mechanismus bereits unter dem Namen *Dekohärenz*: die effektive Entkopplung verschiedener Quantenzustände in der Makrowelt. Im vorliegenden Modell ist Dekohärenz kein mysteriöser Prozess, sondern die schlichte Konsequenz räumlicher Trennung in der Wellendimension.
+Die Physik kennt die effektive Entkopplung verschiedener Quantenzustände in der Makrowelt unter dem Namen *Dekohärenz* --- formal beschrieben als Unterdrückung der Off-Diagonal-Elemente in der reduzierten Dichtematrix. Dieser Formalismus bleibt im vorliegenden Modell vollständig intakt. Was das Modell hinzufügt, ist eine geometrische Interpretation: Die Dekohärenz hat eine räumliche Entsprechung in der Wellendimension --- eine *Wellenseparation*, die Trennung benachbarter Positionen durch wachsende Abstände in der fünften Dimension. Je größer und komplexer ein System, desto größer die Separation, desto vollständiger die Entkopplung.
 
 === Quanteninterferenz: Der Schatten der fünften Dimension
 
@@ -145,7 +147,7 @@ Quanteninterferenz ist kein Beweis für die Wellendimension. Aber sie ist exakt 
 
 Quantenverschränkung ist das Phänomen, das dieses Gedankenexperiment ursprünglich motiviert hat. Zwei Teilchen, die einmal miteinander wechselgewirkt haben, zeigen danach perfekt korrelierte Messergebnisse --- unabhängig davon, wie weit sie räumlich voneinander entfernt sind. Einstein nannte dies «spukhafte Fernwirkung» und betrachtete es als Zeichen, dass die Quantenmechanik unvollständig sei.
 
-Die Kopenhagener Deutung erklärt die Korrelation nicht. Sie postuliert sie: Bei der Messung an einem der beiden Teilchen «kollabiert» die gemeinsame Wellenfunktion instantan, und das andere Teilchen «weiß» sofort, welchen Zustand es zeigen muss. Wie diese Information über beliebige Entfernungen übertragen wird --- ohne Signal, ohne Zeitverzögerung, ohne bekannten Mechanismus --- bleibt offen.
+Die Standard-Quantenmechanik liefert die Korrelationen mit höchster Präzision --- und garantiert gleichzeitig, dass daraus keine überlichtschnelle Kommunikation folgt (No-Signalling). Was sie *nicht* liefert, ist eine Erklärung, *warum* die Korrelationen existieren. Sie sagt *dass*, nicht *woher*. Die Korrelation ist ein Faktum des Formalismus, keine Konsequenz eines identifizierten Mechanismus. Genau diese Leerstelle adressiert das vorliegende Modell.
 
 Im vorliegenden Modell verschwindet das Rätsel.
 
@@ -179,7 +181,9 @@ Niemand würfelt. Der Würfel zeigt alle Zahlen gleichzeitig. Wir sehen nur eine
 
 Zufall wäre in diesem Modell dasselbe wie der Kollaps: ein Wahrnehmungsartefakt. Nicht fundamental, sondern perspektivisch. Die Wahrscheinlichkeiten der Quantenmechanik wären real --- aber sie würden nicht beschreiben, was *passiert*, sondern was *wir von unserem Standort in der Wellendimension aus sehen können*.
 
-Die Born'sche Regel --- die Vorschrift, dass die Wahrscheinlichkeit eines Messergebnisses dem Betragsquadrat der Wellenfunktion entspricht --- würde eine geometrische Deutung erhalten: Wahrscheinlichkeit wäre ein Maß dafür, wie viele benachbarte Quantenpixel in der Wellendimension dasselbe Ergebnis zeigen. Hohe Wahrscheinlichkeit bedeutet: viele Nachbarpositionen mit diesem Zustand. Niedrige Wahrscheinlichkeit bedeutet: wenige.
+Die Born'sche Regel --- die Vorschrift, dass die Wahrscheinlichkeit eines Messergebnisses dem Betragsquadrat der Wellenfunktion entspricht --- würde eine geometrische Deutung erhalten: Wahrscheinlichkeit wäre ein Maß dafür, wie viele benachbarte Quantenzellen in der Wellendimension dasselbe Ergebnis zeigen. Hohe Wahrscheinlichkeit bedeutet: viele Nachbarzellen mit diesem Zustand. Niedrige Wahrscheinlichkeit bedeutet: wenige.
+
+Dies ist eine *Vermutung*, keine Ableitung. Ein mathematischer Beweis --- dass die Nachbarschaftsstruktur einer diskreten 5D-Mannigfaltigkeit genau |ψ|² reproduziert --- steht aus. Dieser Beweis wäre der stärkste einzelne Test des Modells: Gelingt er, wäre es das erste Modell in der Geschichte der Physik, das erklärt, *warum* Wahrscheinlichkeiten ausgerechnet dem Betragsquadrat folgen. Scheitert er, fällt das geometrische Fundament des Modells. Die Born-Regel ist in keiner Interpretation der Quantenmechanik abgeleitet --- sie ist überall ein Postulat oder eine offene Aufgabe. Dieses Modell ist hier nicht schlechter dran als die Konkurrenz, aber es erhebt einen höheren Anspruch.
 
 === Determinismus ohne Vorbestimmung
 
@@ -236,7 +240,7 @@ Wenn dieses Prinzip auf fünf Dimensionen erweitert wird, könnte die Aufteilung
 Dieses Papier kann zwischen den drei Optionen nicht entscheiden. Es benennt sie als offene Frage.
 
 
-## 9. Quantenpixel --- die diskrete Struktur der Realität
+## 9. Quantenzellen --- die diskrete Struktur der Realität
 
 
 Ein roter Faden durchzieht die bisherigen Papiere dieser Reihe: die Überzeugung, dass die Natur keine echten Unendlichkeiten und keine echten Kontinua enthält. Wenn das stimmt, ist die gesamte fünfdimensionale Mannigfaltigkeit --- Raum, Zeit und Wellendimension --- diskret.
@@ -250,16 +254,32 @@ Die Quantenmechanik liefert bereits empirische Beispiele für diskrete Übergän
 
 Wenn dieser Befund auf die gesamte Raumzeit ausgeweitet wird --- wie es die Loop-Quantengravitation nahelegt --- und zusätzlich auf die Wellendimension, dann besteht die Realität aus einer endlichen, aber extrem großen Zahl diskreter Punkte in fünf Dimensionen. Jeder Punkt hat fünf Koordinaten: drei räumliche, eine zeitliche, eine für den Quantenzustand.
 
-*Axiom 2 --- Quantenpixel*
+*Axiom 2 --- Quantenzellen*
 
 _Die Realität besteht aus einer endlichen Menge diskreter Punkte in einer fünfdimensionalen Mannigfaltigkeit. Es gibt keine echten Kontinua, keine unendlich feinen Unterteilungen, keine physikalisch realen Zwischenzustände. Was wir als «glatten Raum» und «stetige Zeit» erleben, ist die makroskopische Approximation einer fundamentalen diskreten Struktur._
 
-Der Begriff «Quantenpixel» ist bewusst gewählt und bewusst ungenau. «Pixel» bezeichnet ein zweidimensionales Bildelement, «Voxel» ein dreidimensionales Volumenelement. Ein fünfdimensionales diskretes Element müsste --- der Konvention folgend, die fünfdimensionale Hyperwürfel als «Penterakte» bezeichnet --- eher «Pexel» oder «Qexel» heißen. Dieser Text verwendet «Quantenpixel», weil der Begriff sofort verstanden wird und das Wesentliche transportiert: diskret, minimal, fundamental.
+Der Begriff «Quantenzelle» ist bewusst gewählt. Er transportiert das Wesentliche: diskret, minimal, fundamental --- und vor allem: *keine regelmäßige Gitterstruktur*. Die Natur baut keine Schachbretter. Sie baut Schaum. Quantenzellen sind wie die Zellen eines Seifenschaums: individuelle, lückenlos aneinander grenzende Bereiche ohne Vorzugsrichtung, deren Form aus einem Minimierungsprinzip folgt --- demselben Prinzip, das auf makroskopischer Skala die Kugelsymmetrie erzeugt (Paper 2). Eine solche Schaumstruktur hat keine bevorzugten Achsen, keine Gitter-Anisotropie und damit keinen Grund, die Lorentz-Invarianz zu verletzen. Die diskrete Struktur ist mit der Relativitätstheorie *verträglich*, weil sie isotrop ist --- nicht trotz ihrer Diskretheit, sondern wegen der Art ihrer Diskretheit.
 
 Dies ist die natürliche Erweiterung des Regularitätsprinzips (Axiom 1): Wenn es keine echten Unendlichkeiten gibt, gibt es auch keine echten Kontinua --- denn ein Kontinuum enthält per Definition unendlich viele Punkte.
 
 
-## 10. Offene Flanken
+## 10. Abgrenzung zu bestehenden No-Collapse-Interpretationen
+
+
+Die These «der Kollaps passiert nicht» ist nicht neu. Mindestens zwei etablierte Interpretationen der Quantenmechanik teilen sie:
+
+*Everett (Viele-Welten-Interpretation, 1957):* Die universelle Wellenfunktion entwickelt sich unitär, ohne Kollaps. Alle Messergebnisse realisieren sich in verschiedenen «Branches» des Zustandsvektors. Der ontologische Preis: unendlich viele real existierende Welten. Der Formalismus bleibt unverändert; die Interpretation ontologisiert den vorhandenen mathematischen Träger.
+
+*De Broglie-Bohm (Pilotwellentheorie):* Teilchen haben definite Positionen, die durch eine nichtlokale Pilotwelle geführt werden. Kein Kollaps; die Wellenfunktion entwickelt sich immer unitär. Der ontologische Preis: eine fundamental nichtlokale Führungswelle im 3N-dimensionalen Konfigurationsraum.
+
+*Dieses Modell (Wellendimension):* Kein Kollaps; Zustände koexistieren in einer realen geometrischen Dimension. Der ontologische Preis: eine zusätzliche raumartige Dimension mit noch offener formaler Anbindung an den Hilbertraum.
+
+Jede dieser drei Optionen zahlt einen anderen Preis für dieselbe Grundeinsicht. Everett zahlt mit ontologischer Inflation (unendlich viele Welten). Bohm zahlt mit fundamentaler Nichtlokalität im hochdimensionalen Konfigurationsraum. Dieses Modell zahlt mit einer geometrischen Zusatzstruktur, deren vollständige formale Ausarbeitung noch aussteht.
+
+Die Frage ist nicht, welche Interpretation «weniger kostet» --- jede hat offene Probleme. Die Frage ist, welche die fruchtbarsten neuen Fragen aufwirft. Das vorliegende Modell behauptet nicht, Everett oder Bohm überlegen zu sein. Es bietet eine dritte geometrische Option, die dieselben Phänomene anders organisiert --- und dabei Fragen stellt, die in den anderen Interpretationen nicht auftauchen: Was ist die Geometrie des Zustandsraums? Warum genau die Born-Regel? Warum genau die quantenmechanische Korrelationsstärke?
+
+
+## 11. Offene Flanken
 
 
 Wie im zweiten Papier verlangt die intellektuelle Ehrlichkeit, die Gegenargumente zu benennen:
@@ -274,7 +294,7 @@ Wie im zweiten Papier verlangt die intellektuelle Ehrlichkeit, die Gegenargument
 | Hilbertraum und Mehrteilchensysteme | Stark | Die Wellendimension soll den Hilbertraum-Formalismus nicht *ersetzen*, sondern *interpretieren* --- eine geometrische Lesart dessen, was der Formalismus beschreibt. Der mathematische Apparat (Operatoren, Tensorprodukte, Zustandsvektoren) bleibt intakt. Die offene Aufgabe ist, eine explizite Abbildung zu zeigen, die die Tensorproduktstruktur von Mehrteilchensystemen in der 5D-Geometrie wiederfindet. Das ist keine triviale Aufgabe --- aber ihr Fehlen ist kein Unmöglichkeitsbeweis, sondern ein offenes Forschungsproblem. |
 
 
-## 11. Bezug zum Gesamtmodell
+## 12. Bezug zum Gesamtmodell
 
 
 Die bisherigen Papiere dieser Reihe verfolgen eine gemeinsame Strategie: Die konsequente Anwendung des Regularitätsprinzips auf verschiedene Bereiche der Physik.
@@ -283,14 +303,14 @@ Die bisherigen Papiere dieser Reihe verfolgen eine gemeinsame Strategie: Die kon
 |---|---|---|
 | Kosmologie (Paper 2) | Urknall-Singularität | Koordinatenartefakt auf einer glatten, geschlossenen Mannigfaltigkeit |
 | Quantenmechanik (Paper 3) | Wellenfunktions-Kollaps | Wahrnehmungsartefakt --- Schnitt durch eine höherdimensionale Realität |
-| Raumzeitstruktur (Paper 2 + 3) | Kontinuum-Annahme | Diskrete Quantenpixel in fünf Dimensionen |
+| Raumzeitstruktur (Paper 2 + 3) | Kontinuum-Annahme | Diskrete Quantenzellen in fünf Dimensionen |
 
 Die Verbindung ist nicht nur thematisch, sondern strukturell: In beiden Fällen wird eine scheinbare Diskontinuität aufgelöst, indem die Realität um eine Dimension erweitert wird. Im ersten Fall wird die zeitliche Singularität des Urknalls durch eine geschlossene Raumzeit-Topologie geglättet. Im zweiten Fall wird die Diskontinuität des Kollapses durch eine zusätzliche Dimension aufgelöst, in der alle Zustände koexistieren.
 
 Das Muster ist dasselbe: Was aus einer niedrigerdimensionalen Perspektive wie ein Bruch aussieht, ist aus einer höherdimensionalen Perspektive glatt.
 
 
-## 12. Fazit
+## 13. Fazit
 
 
 Dieses Papier behauptet nicht, dass eine fünfte Dimension existiert. Es stellt eine Frage: Wenn das Regularitätsprinzip den Urknall-Singularität als Artefakt entlarvt --- warum sollte der Wellenfunktionskollaps, der dieselben Merkmale aufweist, eine Ausnahme sein?

@@ -25,6 +25,8 @@ Die Natur zeigt auf jeder beobachtbaren Skala eine Tendenz zur höchstsymmetrisc
 
 Dieses Muster ist kein Zufall, sondern folgt aus fundamentalen Variationsprinzipien: Die Kugel ist die Lösung des isoperimetrischen Problems (maximales Volumen bei minimaler Oberfläche). Es ist das universellste geometrische Optimierungsergebnis der Natur.
 
+Wichtig: Die Tabelle zeigt nicht nur Kugeln, sondern auch Scheiben, Ellipsoide und Filamente. Das sind keine Gegenbeispiele, sondern Bestätigungen. Jede dieser Formen ist die *höchstsymmetrische Konfiguration unter den jeweiligen Randbedingungen*: Eine rotierende Gaswolke wird zur Scheibe, weil der Drehimpuls die Kugelsymmetrie bricht — aber die Scheibe ist die symmetrischste Form, die unter dieser Randbedingung möglich ist. Die Natur wählt nicht immer die Kugel, aber sie wählt immer die höchste Symmetrie, die die Umstände erlauben.
+
 ## 2. Die Frage
 
 In der Allgemeinen Relativitätstheorie ist die Raumzeit kein passiver Behälter, sondern wird durch ihren Inhalt geformt. Wenn der Inhalt der Raumzeit universell zur Kugelsymmetrie tendiert — warum sollte die Raumzeit selbst eine Ausnahme bilden?

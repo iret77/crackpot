@@ -80,7 +80,7 @@
   stroke: (left: 3pt + luma(100)),
   fill: luma(248),
 )[
-  _Dieses Papier baut auf dem Regularitätsprinzip (Axiom 1) und den Quantenpixeln (Axiom 2) auf, die in den vorherigen Papieren dieser Reihe formuliert wurden. Vertrautheit mit Paper 2 («Die banale Hypothese, die keiner aufstellt») und Paper 3 («Die fünfte Dimension») wird vorausgesetzt._
+  _Dieses Papier baut auf dem Regularitätsprinzip (Axiom 1) und den Quantenzellenn (Axiom 2) auf, die in den vorherigen Papieren dieser Reihe formuliert wurden. Vertrautheit mit Paper 2 («Die banale Hypothese, die keiner aufstellt») und Paper 3 («Die fünfte Dimension») wird vorausgesetzt._
 ]
 
 #v(0.5cm)
@@ -127,7 +127,7 @@ Unabhängig davon, ob die radikale These aus Abschnitt 2 tragfähig ist, gibt es
 
 Das Problem der nicht-renormierbaren Unendlichkeiten in der perturbativen Quantengravitation ist ein *UV-Problem*: Es tritt bei sehr hohen Energien auf, was äquivalent ist zu sehr kleinen Abständen. Die Unendlichkeiten entstehen, weil die Theorie beliebig kleine Abstände zulässt --- im mathematischen Formalismus werden Integrale über alle Impulse ausgeführt, bis hinauf zu unendlich hohen Energien, und es sind diese Integrale, die divergieren.
 
-Axiom 2 --- die Quantenpixel --- verbietet beliebig kleine Abstände. Wenn die Realität aus einer endlichen Menge diskreter Punkte besteht, gibt es eine minimale Längenskala. Es gibt keinen «Abstand null». Die Integrale, die in der perturbativen Quantengravitation divergieren, hätten einen natürlichen Cutoff: Man integriert nicht bis unendlich, weil es kein «unendlich Kleines» gibt. Die Summe wird endlich, weil es nur endlich viele Beiträge gibt.
+Axiom 2 --- die Quantenzellen --- verbietet beliebig kleine Abstände. Wenn die Realität aus einer endlichen Menge diskreter Punkte besteht, gibt es eine minimale Längenskala. Es gibt keinen «Abstand null». Die Integrale, die in der perturbativen Quantengravitation divergieren, hätten einen natürlichen Cutoff: Man integriert nicht bis unendlich, weil es kein «unendlich Kleines» gibt. Die Summe wird endlich, weil es nur endlich viele Beiträge gibt.
 
 Das ist kein neuer Trick. Es ist der älteste Trick der Physik.
 
@@ -145,7 +145,7 @@ Die Diskretheit hat einen bekannten Preis: Sie droht, die Lorentz-Invarianz zu v
 
 Dieses Problem ist real und ungelöst --- nicht nur für das vorliegende Modell, sondern für jeden Ansatz, der Diskretheit postuliert. Die Schleifenquantengravitation kämpft damit. Das Causal-Set-Programm (Sorkin) löst es elegant: Wenn die diskreten Punkte zufällig verteilt sind --- als Poisson-Prozess auf der Mannigfaltigkeit --- gibt es keine Vorzugsrichtung. Die Lorentz-Invarianz wird nicht durch ein Gitter, sondern durch Zufall erhalten.
 
-Im vorliegenden Modell ist die Situation subtiler: Zufall existiert nicht fundamental (Paper 3, Abschnitt 7). Die Verteilung der Quantenpixel *sieht* zufällig aus, ist aber durch die Struktur der Wellendimension determiniert. Die Frage ist, ob eine deterministische, aber perspektivisch zufällige Verteilung die Lorentz-Invarianz ebenso effektiv schützt wie echter Zufall. Das ist offen.
+Im vorliegenden Modell ist die Situation subtiler: Zufall existiert nicht fundamental (Paper 3, Abschnitt 7). Die Verteilung der Quantenzellen *sieht* zufällig aus, ist aber durch die Struktur der Wellendimension determiniert. Die Frage ist, ob eine deterministische, aber perspektivisch zufällige Verteilung die Lorentz-Invarianz ebenso effektiv schützt wie echter Zufall. Das ist offen.
 
 = 4. Zur Nummerierung der Dimensionen
 
@@ -244,9 +244,11 @@ Die Vorhersage: Kein perturbativer Ansatz zur Quantengravitation wird jemals kon
 
 Wenn die Raumzeit diskret ist, hat die Diskretheit Konsequenzen für die Ausbreitung von Licht über kosmologische Entfernungen. Verschiedene Wellenlängen sollten sich auf einem diskreten Gitter mit minimal unterschiedlichen Geschwindigkeiten ausbreiten --- ein Effekt, der bei ausreichend langen Laufstrecken (Milliarden von Lichtjahren) und ausreichend kurzen Wellenlängen (Gammastrahlung) messbar wird.
 
-Tatsächlich wird genau das bereits gesucht: Der Fermi-Gammastrahlen-Satellit hat versucht, Ankunftszeitunterschiede zwischen verschiedenen Wellenlängen in Gammablitzen nachzuweisen. Bisher: keine Evidenz. Die Messgrenzen liegen nahe an der Planck-Skala, aber haben sie noch nicht erreicht.
+Tatsächlich wird genau das bereits gesucht --- und die Ergebnisse sind bereits hart. LHAASO hat mit dem Gammablitz GRB 221009A (Oktober 2022, dem stärksten je beobachteten Gammablitz) Photonen bis 18 TeV aus 2,4 Milliarden Lichtjahren Entfernung analysiert. Ergebnis: Keine messbare Ankunftszeit-Differenz. Lineare Lorentz-Invarianz-Verletzung ist bis zum 100.000-fachen der Planck-Energie ausgeschlossen. Einfache Gitter-Diskretheit auf Planck-Skala, die lineare Dispersion erzeugt, steht damit unter schwerem Beobachtungsdruck.
 
-Das ist ein zweischneidiges Schwert: Wenn die Diskretheit nachgewiesen wird, stützt das Axiom 2. Wenn sie bei der Planck-Skala nicht nachgewiesen wird, könnte die Diskretheit entweder nicht existieren --- oder die Wellendimension könnte die Dispersion absorbieren (ein Effekt, der im vorliegenden Modell denkbar wäre, aber nicht quantitativ vorhergesagt werden kann).
+Allerdings zeigt das Causal-Set-Programm (Sorkin), dass nicht jede diskrete Struktur Dispersion erzeugt: Statistisch isotrope Punktverteilungen wahren die Lorentz-Invarianz exakt, weil sie keine Vorzugsrichtung haben. Im vorliegenden Modell ist die diskrete Struktur nicht als regelmäßiges Gitter postuliert, sondern als schaumartige Zellenstruktur --- isotrop, ohne Vorzugsachse, mit einer Form, die aus einem Minimierungsprinzip folgt (vgl. Paper 3, Abschnitt 9). Eine solche Struktur erzeugt keine lineare Dispersion und ist mit den LHAASO-Grenzen verträglich. Quadratische Effekte (2. Ordnung) sind bei den aktuellen Messgrenzen noch nicht ausgeschlossen.
+
+Die Frage, ob die konkrete Quantenzellen-Struktur Dispersion erzeugt oder nicht, hängt an ihrer Geometrie --- und diese ist eine offene Aufgabe.
 
 = 7. Offene Flanken
 
@@ -283,7 +285,7 @@ Dieses Papier behauptet nicht, das Problem der Quantengravitation gelöst zu hab
 
 Zwei Wege wurden skizziert. Der konservative: Diskretheit der Raumzeit liefert einen natürlichen UV-Cutoff und beseitigt die Divergenzen der perturbativen Quantengravitation --- ähnlich wie Plancks Quantisierung die UV-Katastrophe beseitigte. Der radikale: Wenn Quantenmechanik selbst Geometrie ist, gibt es nichts zu quantisieren, und das Problem löst sich auf, weil es verschwindet.
 
-Beide Wege sind offen. Keiner ist bewiesen. Aber beide folgen aus denselben Axiomen, die in den ersten beiden Papieren formuliert wurden --- dem Regularitätsprinzip und den Quantenpixeln. Wenn diese Axiome falsch sind, fallen alle drei Papiere. Wenn sie richtig sind, deuten sie auf eine Physik hin, in der Unendlichkeiten nicht reguliert, sondern eliminiert werden --- nicht durch bessere Mathematik, sondern durch eine vollständigere Beschreibung der Realität.
+Beide Wege sind offen. Keiner ist bewiesen. Aber beide folgen aus denselben Axiomen, die in den ersten beiden Papieren formuliert wurden --- dem Regularitätsprinzip und den Quantenzellenn. Wenn diese Axiome falsch sind, fallen alle drei Papiere. Wenn sie richtig sind, deuten sie auf eine Physik hin, in der Unendlichkeiten nicht reguliert, sondern eliminiert werden --- nicht durch bessere Mathematik, sondern durch eine vollständigere Beschreibung der Realität.
 
 == Ausblick
 
@@ -316,3 +318,5 @@ Kaluza, T. (1921): _Zum Unitätsproblem der Physik._ Sitzungsberichte der Preuß
 Bassi, A. et al. (2013): _Models of wave-function collapse, underlying theories, and experimental tests._ Reviews of Modern Physics, 85(2), 471--527. --- Zu Kollaps-Theorien und deren experimenteller Testbarkeit.
 
 Amelino-Camelia, G. et al. (2009): _Severe constraints on the loop-quantum-gravity energy-momentum dispersion relation from the photon time-of-flight method._ International Journal of Modern Physics D, 18(12), 2027--2035. --- Zur experimentellen Suche nach Raumzeit-Diskretheit.
+
+LHAASO Collaboration (2024): _Stringent Tests of Lorentz Invariance Violation from LHAASO Observations of GRB 221009A._ Physical Review Letters, 133, 071501. --- Zu den aktuell schärfsten Grenzen für Lorentz-Invarianz-Verletzung.
