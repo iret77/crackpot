@@ -135,7 +135,7 @@ Welche Struktur hat diese Dimension? Die bisherige Argumentation legt vier Eigen
 
 *1. Raumartig, nicht zeitartig.* Die Wellendimension hat keinen Fluss, keine Richtung, keinen «Vorher-Nachher»-Charakter. Die Quantenzustände liegen nebeneinander wie Orte im Raum, nicht wie Momente in der Zeit. Lediglich die Zeitdimension bringt Dynamik ins System.
 
-*2. Diskret, nicht kontinuierlich.* Die Quantenmechanik ist im Kern eine Theorie diskreter Zustände --- Energieniveaus, Spinrichtungen, Teilchenzahlen. Wenn die Wellendimension diese Zustände trägt, ist sie selbst diskret. Es gibt keine beliebig feinen Zwischenzustände, sondern diskrete Positionen --- *Quantenpixel*.
+*2. Diskret, nicht kontinuierlich.* Die Quantenmechanik enthält fundamentale Diskretheit --- Energieniveaus, Spinrichtungen, Teilchenzahlen. Für andere Observablen (Ort, Impuls) verwendet der aktuelle Formalismus kontinuierliche Beschreibungen. Ob diese Kontinuität physikalisch real ist oder eine mathematische Idealisierung, die auf der Planck-Skala zusammenbricht, ist eine offene experimentelle Frage. Das hier postulierte Regularitätsprinzip entscheidet sie: Wenn es keine echten Unendlichkeiten gibt, gibt es auch keine echten Kontinua. Die Diskretheit der Wellendimension --- und aller anderen Dimensionen --- folgt nicht aus der bestehenden QM, sondern aus Axiom 1. Sie ist eine Vorhersage, kein Befund. Es gibt keine beliebig feinen Zwischenzustände, sondern diskrete Positionen --- *Quantenpixel*.
 
 *3. Endlich, nicht unendlich.* Das Regularitätsprinzip verbietet echte Unendlichkeiten. Die Wellendimension enthält daher eine große, aber endliche Zahl diskreter Zustände. Dies steht im Einklang mit der Tatsache, dass physikalische Systeme mit endlicher Energie nur endlich viele zugängliche Zustände haben.
 
@@ -149,9 +149,11 @@ In der Loop-Quantengravitation ist der Raum quantisiert: Es gibt ein kleinstes V
 
 Dies legt nahe, dass die Wellendimension keine grundlegend *andere* Struktur hat als die Raumdimensionen --- sondern eine gleichartige Struktur, die wir aus evolutionären Gründen nicht wahrnehmen.
 
-= 4. Das evolutionäre Argument
+= 4. Lokalisierung und Wahrnehmung
 
-Warum nehmen wir die Wellendimension nicht wahr? Die naheliegende Antwort --- «weil sie nicht existiert» --- ist eine Möglichkeit, aber nicht die einzige. Es gibt eine alternative Erklärung, die keine Physik benötigt, sondern Biologie.
+Warum sehen wir nur *ein* Quantenergebnis, wenn alle Zustände koexistieren? Die Antwort des Modells ist zunächst physikalisch: Beobachter und Detektoren sind an einer bestimmten Position in der Wellendimension lokalisiert. Sie sehen den Zustand an *ihrem* Ort --- nicht weil die anderen Zustände verschwinden, sondern weil die Lokalisierung den Zugang auf eine Position beschränkt.
+
+Diese Lokalisierung hat eine biologische Konsequenz, die erklärt, warum kein Organismus die Wellendimension wahrnimmt.
 
 === Wahrnehmung als komprimiertes Interface
 
@@ -238,7 +240,11 @@ Eine unmittelbare Konsequenz dieses Modells betrifft einen der ältesten Streitp
 
 In der Kopenhagener Deutung ist Quantenzufall *irreduzibel*. Wenn ein radioaktives Atom zerfällt, gibt es keinen verborgenen Grund --- es passiert einfach, mit einer bestimmten Wahrscheinlichkeit. Einstein widersprach bekanntlich («Gott würfelt nicht»), und Bells Theorem (1964) schien ihm zu widersprechen: Es gibt keine *lokalen* verborgenen Variablen, die den Zufall deterministisch erklären könnten.
 
-Aber Bell schließt nur *lokale* verborgene Variablen aus --- Variablen, die im selben Raumzeit-Punkt definiert sind wie die Messung. Wenn die «verborgene Variable» eine ganze Dimension ist, in der alle Ergebnisse gleichzeitig und nebeneinander existieren, greift Bells Argument nicht. Niemand würfelt. Der Würfel zeigt alle Zahlen gleichzeitig. Wir sehen nur eine, weil wir an einem bestimmten Ort in der Wellendimension stehen.
+Aber Bell schließt nur *lokale* verborgene Variablen aus --- Theorien, in denen die Korrelation durch Informationen zustande kommt, die am selben Raumzeit-Punkt verfügbar sind. Das vorliegende Modell ist nicht lokal im Bell-Sinne: Die Wellendimension ist eine reale, raumartige Struktur, in der verschränkte Teilchen Nachbarn sind. Ihre Korrelation entsteht durch gemeinsame Position in dieser Dimension, nicht durch Signalübertragung durch den dreidimensionalen Raum. Bell selbst hat explizit festgestellt, dass jede Theorie, die die quantenmechanischen Vorhersagen exakt reproduziert, «grossly non-local» sein muss (Bell 1964). Das vorliegende Modell fällt in genau diese Kategorie.
+
+Allerdings erklärt Nichtlokalität allein noch nicht die *spezifische Stärke* der Quantenkorrelationen. Popescu und Rohrlich (1994) haben gezeigt, dass es nichtlokale Korrelationen gibt, die stärker sind als die quantenmechanischen, ohne die Kausalität zu verletzen. Warum die Natur bei genau der quantenmechanischen Grenze (dem Tsirelson-Bound) Halt macht und nicht weitergeht, ist eine offene Frage --- nicht nur für dieses Modell, sondern für die Grundlagenphysik insgesamt. In diesem Modell müsste die Antwort in der konkreten Geometrie der Wellendimension liegen: Ihre Struktur begrenzt die möglichen Korrelationen auf genau die quantenmechanische Stärke. Wie das im Detail funktioniert, ist eine offene Aufgabe.
+
+Niemand würfelt. Der Würfel zeigt alle Zahlen gleichzeitig. Wir sehen nur eine, weil wir an einem bestimmten Ort in der Wellendimension stehen.
 
 === Zufall als Wahrnehmungsartefakt
 
@@ -335,10 +341,11 @@ Wie im zweiten Papier verlangt die intellektuelle Ehrlichkeit, die Gegenargument
   columns: (1fr, 0.5fr, 1.5fr),
   [Einwand], [Gewicht], [Mögliche Antwort],
   [Keine experimentelle Evidenz für eine fünfte Dimension], [Stark], [Richtig. Dies ist ein Gedankenexperiment, keine empirische Theorie. Aber: Auch für die Extradimensionen der String-Theorie gibt es keine experimentelle Evidenz.],
-  [Das evolutionäre Argument ist unfalsifizierbar], [Stark], [Teilweise berechtigt. Es erklärt, warum Evidenz *fehlen könnte*, was gefährlich nahe an einer Immunisierungsstrategie ist. Aber: Es macht eine überprüfbare Vorhersage --- nämlich dass kein physikalischer Kollaps-Mechanismus gefunden werden wird.],
+  [Das evolutionäre Argument ist unfalsifizierbar], [Mittel], [Das evolutionäre Argument erklärt nicht die fehlende Evidenz, sondern ist eine *Konsequenz* der Lokalisierung in der Wellendimension: Organismen, die an einer Position lokalisiert sind, haben keinen evolutionären Grund, einen Zugang zu anderen Positionen zu entwickeln. Die Lokalisierung selbst ist die physikalische Aussage; die Evolution erklärt, warum diese Lokalisierung biologisch stabil ist. Das Modell macht eine überprüfbare Vorhersage: Kein physikalischer Kollaps-Mechanismus wird gefunden werden.],
   [Warum genau 5 Dimensionen und nicht mehr?], [Berechtigt], [Offene Frage. Möglicherweise ist die Zahl 5 selbst ein Artefakt unserer Aufteilung.],
   [Die Diskretheit des Raums ist nicht bewiesen], [Mittel], [Aber sie ist das zentrale Ergebnis der Loop-Quantengravitation und wird aktiv beforscht.],
   [Dekohärenz erklärt den scheinbaren Kollaps bereits ohne Extradimensionen], [Stark], [Dekohärenz erklärt die *Entkopplung* der Zustände, aber nicht, warum *dieser* Zustand erlebt wird. Im vorliegenden Modell ist die Antwort: weil wir an *diesem Ort* in der Wellendimension sind.],
+  [Hilbertraum und Mehrteilchensysteme], [Stark], [Die Wellendimension soll den Hilbertraum-Formalismus nicht *ersetzen*, sondern *interpretieren* --- eine geometrische Lesart dessen, was der Formalismus beschreibt. Der mathematische Apparat (Operatoren, Tensorprodukte, Zustandsvektoren) bleibt intakt. Die offene Aufgabe ist, eine explizite Abbildung zu zeigen, die die Tensorproduktstruktur von Mehrteilchensystemen in der 5D-Geometrie wiederfindet. Das ist keine triviale Aufgabe --- aber ihr Fehlen ist kein Unmöglichkeitsbeweis, sondern ein offenes Forschungsproblem.],
 )
 
 = 11. Bezug zum Gesamtmodell
@@ -390,5 +397,9 @@ Sorkin, R. D. (2003): _Causal Sets: Discrete Gravity._ In: Gomberoff, A. & Marol
 Rovelli, C. (2004): _Quantum Gravity._ Cambridge University Press. --- Zur Diskretheit der Raumzeit in der Loop-Quantengravitation.
 
 Hoffman, D. D. (2019): _The Case Against Reality: Why Evolution Hid the Truth from Our Eyes._ W. W. Norton. --- Zum evolutionären Argument gegen vollständige Wahrnehmung.
+
+Popescu, S. & Rohrlich, D. (1994): _Quantum nonlocality as an axiom._ Foundations of Physics, 24(3), 379--385. --- Zu nichtlokalen Korrelationen jenseits der Quantenmechanik.
+
+Bell, J. S. (1964): _On the Einstein Podolsky Rosen paradox._ Physics Physique Fizika, 1(3), 195--200. --- Zum Ausschluss lokaler verborgener Variablen.
 
 Carroll, S. (2019): _Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime._ Dutton. --- Zur Viele-Welten-Interpretation.
