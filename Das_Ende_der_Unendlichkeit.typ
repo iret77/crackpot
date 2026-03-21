@@ -93,9 +93,11 @@ Das ist keine akademische Kuriosität. Es ist ein technisches Versagen. Beide Th
 
 Das Problem ist konkret: Wenn man Gravitation als Quantenfeld behandelt --- wenn man also «Gravitonen» als Austauschteilchen einführt, analog zu Photonen in der Quantenelektrodynamik --- und dann Streuamplituden berechnet, also die Wahrscheinlichkeit, dass zwei Gravitonen miteinander wechselwirken, treten Unendlichkeiten auf. Bei jeder anderen Kraft (elektromagnetisch, schwach, stark) lassen sich diese Unendlichkeiten durch ein Verfahren namens Renormierung absorbieren --- man definiert die Theorie so um, dass die Unendlichkeiten verschwinden und endliche, physikalisch sinnvolle Ergebnisse übrig bleiben.
 
-Bei der Gravitation funktioniert das nicht. Die Unendlichkeiten sind «nicht-renormierbar»: Für jede, die man beseitigt, tauchen neue auf, und das Verfahren konvergiert nie. Die Theorie produziert nicht falsche Ergebnisse --- sie produziert gar keine. Ab einer bestimmten Energieskala (der Planck-Skala, ca. 10#super[19] GeV) ist die perturbative Quantengravitation schlicht nicht definiert.
+Bei der Gravitation funktioniert das nicht vollständig. Die Unendlichkeiten sind «nicht-renormierbar»: Für jede, die man beseitigt, tauchen neue auf, und das Verfahren konvergiert nie. Ab einer bestimmten Energieskala (der Planck-Skala, ca. 10#super[19] GeV) ist die perturbative Quantengravitation schlicht nicht definiert.
 
-Das ist der Grund, warum die Quantengravitation als das zentrale ungelöste Problem der theoretischen Physik gilt --- nicht weil die Theorien «philosophisch unvereinbar» sind, sondern weil der mathematische Apparat bei dem Versuch, sie zu vereinen, zusammenbricht.
+Eine wichtige Einschränkung: Im niederenergetischen Bereich --- weit unterhalb der Planck-Skala --- funktioniert die Allgemeine Relativitätstheorie als *effektive Feldtheorie* (EFT) durchaus. Sie liefert berechenbare, teils parameterfreie Quantenkorrekturen. Das Problem ist nicht, dass die perturbative Quantengravitation «gar nichts» kann, sondern dass sie im UV --- bei sehr hohen Energien, sehr kleinen Abständen --- nicht vervollständigbar ist. Die Frage ist, was dort stattdessen gilt.
+
+Das ist der Grund, warum die UV-Vervollständigung der Quantengravitation als das zentrale ungelöste Problem der theoretischen Physik gilt --- nicht weil die Theorien bei niedrigen Energien «philosophisch unvereinbar» sind, sondern weil der mathematische Apparat bei dem Versuch, sie im Hochenergiebereich zu vereinen, zusammenbricht.
 
 = 2. Warum das Problem möglicherweise falsch gestellt ist
 
@@ -115,7 +117,9 @@ Er hat sie nicht gefunden. Aber die Frage, *warum* er sie nicht gefunden hat, is
 
 Die These dieses Papiers: Die fehlende Zutat war nicht mehr Mathematik --- sondern die Erkenntnis, dass die fünfte Dimension nicht den Elektromagnetismus trägt, sondern die Quantenzustände. Dass die fünfte Dimension nicht kompaktifiziert (aufgerollt, winzig klein) ist, sondern diskret und raumartig. Und dass die Quantenmechanik kein separates Framework ist, das auf die Raumzeit «aufgesetzt» werden muss, sondern die Geometrie der fünften Dimension selbst.
 
-Ob das stimmt, ist offen. Aber wenn es stimmt, verschwindet das Quantengravitationsproblem nicht durch eine bessere Quantisierung --- sondern weil die Frage sich auflöst.
+Ob das stimmt, ist offen. Die Tragfähigkeit dieses radikalen Weges hängt vollständig an der These aus Paper 3 --- dass die Wellendimension eine reale geometrische Struktur ist, die den Quantenzuständen zugrunde liegt. Solange Paper 3 die dort benannten offenen Aufgaben nicht gelöst hat (insbesondere die Abbildung der Hilbertraum-Struktur auf die 5D-Geometrie und die quantitative Reproduktion der Bell-Korrelationen), bleibt auch der radikale Weg dieses Papiers ein Möglichkeitsraum, keine eigenständige Stütze.
+
+Aber wenn es stimmt, verschwindet das Quantengravitationsproblem nicht durch eine bessere Quantisierung --- sondern weil die Frage sich auflöst.
 
 = 3. Diskretheit als natürlicher Regulator
 
@@ -298,6 +302,8 @@ Aber die qualitative Struktur ist da. Und manchmal ist die Erkenntnis, dass ein 
 't Hooft, G. & Veltman, M. (1974): _One-loop divergencies in the theory of gravitation._ Annales de l'Institut Henri Poincaré A, 20(1), 69--94. --- Zum Nachweis der Nicht-Renormierbarkeit der Gravitation.
 
 Goroff, M. H. & Sagnotti, A. (1986): _The ultraviolet behavior of Einstein gravity._ Nuclear Physics B, 266(3--4), 709--736. --- Zur expliziten Zwei-Loop-Divergenz.
+
+Donoghue, J. F. (1994): _General relativity as an effective field theory: The leading quantum corrections._ Physical Review D, 50(6), 3874--3888. --- Zur Allgemeinen Relativitätstheorie als effektive Feldtheorie im niederenergetischen Bereich.
 
 Rovelli, C. (2004): _Quantum Gravity._ Cambridge University Press. --- Zur Schleifenquantengravitation und Diskretheit der Raumzeit.
 
