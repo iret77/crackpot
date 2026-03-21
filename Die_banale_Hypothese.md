@@ -83,13 +83,21 @@ In der Loop-Quantengravitation (LQG) — einer der wenigen halbwegs ausgearbeite
 
 ### 6.5 AdS/CFT und Schwarze Löcher: Die Schwester-Singularität verschwindet
 
-Die Singularität im Inneren eines Schwarzen Lochs ist die engste Verwandte der Urknall-Singularität — beide folgen aus denselben Penrose-Hawking-Theoremen. In der String-Theorie und der AdS/CFT-Korrespondenz wird die Schwarze-Loch-Singularität durch Quanteneffekte aufgelöst; die Information bleibt erhalten, und die Geometrie ist letztlich regulär. Wenn die engste Verwandte der Urknall-Singularität in der Quantentheorie verschwindet, ist die Annahme, dass der Urknall selbst singulär bleibt, zumindest erklärungsbedürftig.
+Die Singularität im Inneren eines Schwarzen Lochs ist die engste Verwandte der Urknall-Singularität — beide folgen aus denselben Penrose-Hawking-Theoremen. In der String-Theorie und der AdS/CFT-Korrespondenz gibt es starke Hinweise darauf, dass die Schwarze-Loch-Singularität durch Quanteneffekte modifiziert wird und die Information nicht verloren geht — auch wenn die Details, insbesondere zur inneren Geometrie, weiterhin offen und subtil sind. Wenn die engste Verwandte der Urknall-Singularität in der Quantentheorie verschwindet, ist die Annahme, dass der Urknall selbst singulär bleibt, zumindest erklärungsbedürftig.
 
 ### 6.6 Das Messproblem: Prinzipielle Unbeobachtbarkeit
 
 Die kosmische Hintergrundstrahlung zeigt uns das Universum ca. 380.000 Jahre nach dem Urknall — davor ist das Universum für elektromagnetische Strahlung opak. Ein Gravitationswellenhintergrund könnte theoretisch weiter zurückreichen, aber nicht bis zur Singularität selbst. Die Singularität ist also nicht nur unbewiesen, sondern prinzipiell unbeobachtbar. Eine physikalische Theorie, deren Kernaussage sich jeder möglichen Messung entzieht, erfüllt nicht das Falsifizierbarkeitskriterium — sie ist keine empirische Aussage, sondern eine Extrapolation.
 
-**Zusammengenommen ergibt sich ein bemerkenswertes Bild: Die Singularität wird von der klassischen Theorie vorhergesagt, die an genau dieser Stelle versagt; sie widerspricht dem Induktionsschluss über alle bisherigen Singularitäten; sie verschwindet in beiden führenden Quantengravitationsansätzen; und sie ist prinzipiell nicht messbar. Die Frage ist nicht, warum jemand an ihr zweifelt — sondern warum sie überhaupt noch als Standardannahme gilt.**
+### 6.7 Das Borde-Guth-Vilenkin-Theorem: Stärker als die Penrose-Hawking-Sätze
+
+Das BGV-Theorem (2003) geht weiter als die klassischen Singularitätssätze: Es zeigt, dass jede Raumzeit mit einer im Mittel positiven Expansionsrate in der Vergangenheit geodätisch unvollständig ist — unabhängig von Energiebedingungen, rein kinematisch. Es ist damit robuster als die Penrose-Hawking-Theoreme und kann nicht durch den Verweis auf Quanteneffekte umgangen werden.
+
+Allerdings sagt BGV nicht, dass der "Anfang" eine Singularität sein muss — nur dass es einen geben muss. In Modellen mit geschlossener Topologie — wie dem hier diskutierten Kugelmodell oder dem Hartle-Hawking-Ansatz — ist die Voraussetzung past-incomplete Geodäten nicht in derselben Weise erfüllt: Der "Anfang" ist kein Rand, sondern ein Pol auf einer glatten Mannigfaltigkeit. Hartle und Hawking adressieren dies durch den Übergang zu regulären euklidischen Geometrien in der Nähe des Pols — ein technischer Schritt, der über die intuitive Kugel-Analogie dieses Papiers hinausgeht, aber dieselbe Grundidee formalisiert.
+
+Das BGV-Theorem ist deshalb kein Argument *für* eine reale Singularität, sondern ein Argument dafür, dass die klassische Beschreibung an einer bestimmten Stelle aufhört zu funktionieren. Was dort *statt* der Singularität steht, ist eine offene Frage — und genau die Frage, die dieses Papier stellt.
+
+**Zusammengenommen ergibt sich ein bemerkenswertes Bild: Die Singularität wird von der klassischen Theorie vorhergesagt, die an genau dieser Stelle versagt; sie widerspricht dem Induktionsschluss über alle bisherigen Singularitäten; sie verschwindet in beiden führenden Quantengravitationsansätzen; das robusteste Theorem (BGV) verlangt einen "Anfang", aber nicht dessen Singularität; und sie ist prinzipiell nicht messbar. Die Frage ist nicht, warum jemand an ihr zweifelt — sondern warum sie überhaupt noch als Standardannahme gilt.**
 
 ## 7. Das Regularitätsprinzip
 
@@ -156,6 +164,8 @@ Auch Physiker sind Menschen, die in Kollektiven arbeiten und Gruppendynamiken, p
 
 Dieses Papier behauptet nichts. Es stellt eine Frage: Wenn die Natur auf jeder beobachtbaren Skala glatte, symmetrische Formen bevorzugt — warum ist die Standardannahme für die Raumzeit-Topologie dann eine Singularität und nicht eine geschlossene Mannigfaltigkeit? Warum ist die Beweislast nicht umgekehrt verteilt?
 
+Die Bevorzugung einer geschlossenen, singularitätsfreien Topologie ist eine Heuristik, keine deduktive Notwendigkeit. Es gibt viele reguläre, nichtsinguläre Geometrien, die das Regularitätsprinzip erfüllen, ohne eine geschlossene Kugel zu erfordern. Die Kugeltopologie ist der einfachste Vorschlag — nicht der einzig mögliche.
+
 Die Antwort könnte sein, dass die Standardannahme richtig ist. Aber sie könnte auch ein Erbe unserer perspektivisch verzerrten Wahrnehmung sein — eine flache Erde des 21. Jahrhunderts.
 
 ### Ausblick
@@ -169,4 +179,5 @@ Das hier formulierte Regularitätsprinzip und das Messbarkeitskriterium sind nic
 - Hartle, J. B. & Hawking, S. W. (1983): *Wave function of the Universe.* Physical Review D, 28(12), 2960–2975.
 - Hawking, S. W. (1988): *Eine kurze Geschichte der Zeit.* Kapitel 8: Ursprung und Schicksal des Universums.
 - Boyle, L. & Turok, N. (2018): *CPT-Symmetric Universe.* Physical Review Letters, 121(25).
+- Borde, A., Guth, A. H. & Vilenkin, A. (2003): *Inflationary spacetimes are incomplete in past directions.* Physical Review Letters, 90(15), 151301.
 - Kuhn, T. S. (1962): *The Structure of Scientific Revolutions.* — Zum Thema paradigmatische Trägheit in der Wissenschaft.
