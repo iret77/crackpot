@@ -1,6 +1,6 @@
 # Die Ökonomie der Symmetrie
 
-**Warum Asymmetrie Energie kostet — und was das für die Physik bedeutet**
+**Warum Symmetriebruch nie gratis ist — und was das für die Physik bedeutet**
 
 Christian Wendler — physikinteressierter Laie
 
@@ -33,3 +33,31 @@ Daraus lässt sich ein Algorithmus destillieren, der in der Wissenschaftsgeschic
 Die Frage klingt banal. Aber sie ist subversiv, weil sie die Beweislast umkehrt: Nicht derjenige, der Symmetrie vermutet, muss sich rechtfertigen — sondern derjenige, der behauptet, eine beobachtete Asymmetrie sei ein unverhandelbares Feature der Realität.
 
 Dieses Papier fragt, ob es in der modernen Physik noch Mercator-Projektionen gibt.
+
+## 2. Symmetriebruch ist nie gratis
+
+Abschnitt 1 hat ein Muster gezeigt: Scheinbare Asymmetrien entpuppten sich als Artefakte der Perspektive. Aber das wirft eine Frage auf — gibt es auch *echte* Asymmetrien? Und wenn ja, woran erkennt man den Unterschied?
+
+Die Antwort beginnt mit einem Theorem, das seit 1918 zum Fundament der theoretischen Physik gehört.
+
+**Noether.** Emmy Noether bewies, dass jede kontinuierliche Symmetrie einer physikalischen Theorie eine Erhaltungsgröße erzeugt. Wenn die Gesetze der Physik heute genauso gelten wie morgen — zeitliche Translationssymmetrie — folgt daraus Energieerhaltung. Wenn sie hier genauso gelten wie dort — räumliche Translationssymmetrie — folgt Impulserhaltung. Wenn keine Richtung im Raum bevorzugt ist — Rotationssymmetrie — folgt Drehimpulserhaltung. Das Theorem ist unbestritten und bildet das Rückgrat der modernen Physik.
+
+Noether beweist die eine Richtung: Symmetrie erzeugt Erhaltung. Dieses Papier interessiert sich für die Umkehrung: Was passiert, wenn eine Symmetrie *bricht*?
+
+Die Physik kennt die Antwort — empirisch, nicht als Theorem, aber mit einer Trefferquote, die Aufmerksamkeit verdient: Jeder bisher beobachtete reale Symmetriebruch hat einen identifizierbaren Mechanismus. Etwas in der Theorie — ein Feld, eine Kraft, eine Wechselwirkung, eine Randbedingung — *trägt* den Bruch. Symmetriebruch ist nie gratis.
+
+Drei Beispiele aus verschiedenen Bereichen der Physik:
+
+**Der Higgs-Mechanismus.** Die elektroschwache Wechselwirkung besitzt eine fundamentale Symmetrie zwischen der elektromagnetischen und der schwachen Kraft. Im heutigen Universum ist diese Symmetrie gebrochen — die schwache Kraft verhält sich völlig anders als der Elektromagnetismus. Der Bruch ist real. Aber er ist nicht gratis: Er wird getragen von einem eigenen Feld, dem Higgs-Feld, das den gesamten Raum durchdringt. Die Physik hat 50 Jahre lang nach diesem Feld gesucht, weil das Prinzip «Bruch braucht Mechanismus» so tief sitzt. 2012 wurde es am CERN gefunden. Ein Einwand liegt nahe: Beim Higgs-Mechanismus hat der gebrochene Zustand *niedrigere* Energie als der symmetrische — die Symmetrie zu brechen «lohnt» sich also. Aber das ändert nichts am Punkt: Der Bruch erforderte einen Mechanismus. Ein ganzes Feld, ein neuer Freiheitsgrad in der Theorie, musste existieren, damit der Bruch überhaupt möglich war. Der Preis ist nicht immer Energie im engeren Sinne — manchmal ist er Struktur.
+
+**Die Materie-Antimaterie-Asymmetrie.** Das Universum besteht fast ausschließlich aus Materie. Die fundamentalen Gleichungen der Teilchenphysik behandeln Materie und Antimaterie jedoch symmetrisch — für jedes Teilchen existiert ein Antiteilchen mit identischer Masse. Woher kommt die Asymmetrie? Die Physik hat einen Mechanismus identifiziert: CP-Verletzung, eine subtile Asymmetrie in der schwachen Wechselwirkung, die 1964 von Cronin und Fitch experimentell nachgewiesen wurde (Nobelpreis 1980). Aber die bekannte CP-Verletzung reicht quantitativ nicht aus, um das beobachtete Übergewicht der Materie zu erklären. Die Rechnung hat einen offenen Posten — und die Physik arbeitet aktiv daran, ihn zu schließen. Nicht weil jemand *bewiesen* hat, dass ein weiterer Mechanismus existieren muss, sondern weil das Prinzip «Asymmetrie braucht eine Ursache» so selbstverständlich ist, dass niemand ernsthaft in Betracht zieht, es könnte «einfach so» sein.
+
+**Thermodynamisches Gleichgewicht.** Ein Raum mit einem warmen und einem kalten Bereich gleicht sich von selbst an — die Temperaturdifferenz verschwindet, bis überall dieselbe Temperatur herrscht. Das ist der zweite Hauptsatz der Thermodynamik: Ein abgeschlossenes System strebt zum Zustand maximaler Entropie, und maximale Entropie *ist* maximale Symmetrie — keine Richtung bevorzugt, kein Gefälle, keine Struktur. Um die Asymmetrie aufrechtzuerhalten — um den Raum warm zu halten, während es draußen kalt ist — muss man bezahlen: Heizung, also kontinuierliche Energiezufuhr. Keine Quelle, keine Asymmetrie. Dieses Prinzip ist seit 150 Jahren unbestritten.
+
+In jedem dieser Fälle gilt dasselbe: Wo eine Asymmetrie real ist, findet die Physik den Mechanismus, der sie trägt. Manchmal dauert die Suche Jahrzehnte — beim Higgs-Feld waren es 50 Jahre. Manchmal ist die Rechnung noch offen — bei der Baryogenese wird aktiv gesucht. Manchmal ist der Mechanismus offensichtlich — bei der Thermodynamik reicht ein Blick auf die Heizung. Aber die Erwartung ist immer dieselbe: Kein Bruch ohne Ursache.
+
+Das ist kein bewiesenes Theorem. Es ist eine Heuristik, deren Anwendung historisch jedes Mal zu einem besseren Modell im Sinne Occams geführt hat.
+
+Daraus folgt ein Kriterium — nicht als Beweis, sondern als Werkzeug: Wenn eine beobachtete Asymmetrie keinen identifizierbaren Mechanismus hat — kein Feld, keine Kraft, keine Wechselwirkung, keine Randbedingung, die den Bruch trägt — dann ist sie verdächtig. Dann ist die sparsamste Hypothese nicht «die Asymmetrie ist real, und wir wissen nur noch nicht warum», sondern: «Vielleicht ist gar nichts gebrochen. Vielleicht ist die Asymmetrie ein Artefakt unserer Beschreibung.»
+
+Occams Rasiermesser wird üblicherweise als Denkregel verstanden: Bevorzuge die einfachere Erklärung. Dieses Papier schlägt vor, es ernster zu nehmen — als Ausdruck einer Eigenschaft der Realität selbst: Symmetrie ist der Grundzustand. Jede Abweichung hat eine Ursache. Wo keine Ursache identifizierbar ist, ist wahrscheinlich nichts abgewichen.
