@@ -1,43 +1,50 @@
-# Crackpot
+# Die logische Kugel
 
-Where intellectual curiosity meets a complete lack of credentials.
-Layman papers on the universe and everything. No peer review. No apologies.
+Wo intellektuelle Neugier auf einen vollständigen Mangel an Qualifikationen trifft.
+Laien-Diskussionspapiere über das Universum und alles andere. Kein Peer Review. Keine Entschuldigung.
 
-## What This Is
+## Was das hier ist
 
-A series of discussion papers that apply a single principle — *nature contains no true infinities* — across cosmology and quantum mechanics. The arguments are philosophical, not mathematical. The goal is not to prove anything, but to ask questions that might be worth asking.
+Eine Reihe von Diskussionspapieren, die ein einziges Prinzip — *die Natur enthält keine echten Unendlichkeiten* — konsequent auf verschiedene Bereiche der Physik anwenden. Die Argumente sind philosophisch, nicht mathematisch. Das Ziel ist nicht, etwas zu beweisen, sondern Fragen zu stellen, die es wert sein könnten, gestellt zu werden.
 
-The author is not a physicist. This is noted not as false modesty, but as context.
+Der Autor ist kein Physiker. Das wird nicht aus falscher Bescheidenheit gesagt, sondern als Kontext.
 
 ## Papers
 
-### Paper 1 — The Trivial Hypothesis
+### Paper 1 — Die banale Hypothese
 
-*Why a singularity-free spacetime might be the simpler assumption.*
+*Warum die singularitätsfreie Raumzeit die einfachere Annahme sein könnte.*
 
-If nature tends toward smooth, symmetric forms at every observable scale — why is the default assumption for the Big Bang a singularity? This paper introduces the **Regularity Principle** (no true infinities in nature) and the **Measurability Criterion** (if it can't be measured in principle, it doesn't belong in a physical model).
+Wenn die Natur auf jeder beobachtbaren Skala zur höchstsymmetrischen Form tendiert — warum ist die Standardannahme für den Urknall eine Singularität? Dieses Paper formuliert das **Regularitätsprinzip** (Axiom 1: Die Natur enthält keine echten Unendlichkeiten) und das **Messbarkeitskriterium** (was prinzipiell nicht messbar ist, gehört nicht in ein physikalisches Modell).
 
-- [Deutsch (PDF)](Die_banale_Hypothese.pdf) / [English (PDF)](The_Trivial_Hypothesis.pdf)
+- [PDF](Die_banale_Hypothese.pdf) / [Markdown](Die_banale_Hypothese.md)
 
-### Paper 2 — The Fifth Dimension
+### Paper 2 — Die fünfte Dimension
 
-*Why the wave function never collapses — and what that reveals about the structure of reality.*
+*Warum die Wellenfunktion nie kollabiert — und was das über die Struktur der Realität verrät.*
 
-The wave function collapse shares every problematic feature of the Big Bang singularity: it's instantaneous, irreversible, mechanism-free, and unobservable. Applying the same Regularity Principle, this paper proposes that quantum states coexist in a real, space-like dimension — and that our perception of "collapse" is a cognitive filter shaped by evolution. Introduces **Quantum Cells** (discrete structure of all dimensions) and three competing geometric architectures for the extended reality.
+Der Wellenfunktionskollaps teilt jedes problematische Merkmal mit der Urknall-Singularität: instantan, irreversibel, mechanismusfrei, unbeobachtbar. Unter Anwendung desselben Regularitätsprinzips schlägt dieses Paper vor, dass Quantenzustände in einer realen, raumartigen Dimension koexistieren — und dass unsere Wahrnehmung von "Kollaps" eine Konsequenz der Lokalisierung in dieser Dimension ist. Einführung der **Quantenzellen** (Axiom 2: diskrete Schaumstruktur aller Dimensionen) und Abgrenzung zu Everett und Bohm.
 
-- [Deutsch (PDF)](Die_fuenfte_Dimension.pdf) / [English (PDF)](The_Fifth_Dimension.pdf)
+- [PDF](Die_fuenfte_Dimension.pdf) / [Markdown](Die_fuenfte_Dimension.md)
 
-## Building the PDFs
+### Paper 3 — Das Ende der Unendlichkeit
 
-The papers are typeset with [Typst](https://typst.app/). Source files are `.typ`. To rebuild:
+*Warum die Quantisierung der Gravitation möglicherweise das falsche Problem ist.*
+
+Wenn die Quantenmechanik selbst eine geometrische Eigenschaft der 5D-Mannigfaltigkeit ist, gibt es möglicherweise nichts zu quantisieren. Konservativer Weg: Diskretheit liefert natürlichen UV-Cutoff. Radikaler Weg: Das Problem der Quantengravitation löst sich auf, weil die Frage falsch gestellt ist.
+
+- [PDF](Das_Ende_der_Unendlichkeit.pdf) / [Markdown](Das_Ende_der_Unendlichkeit.md)
+
+## PDFs bauen
+
+Die Papers sind mit [Typst](https://typst.app/) gesetzt. Quelldateien sind `.typ`. Zum Neubauen:
 
 ```bash
 typst compile Die_banale_Hypothese.typ
 typst compile Die_fuenfte_Dimension.typ
-typst compile The_Trivial_Hypothesis.typ
-typst compile The_Fifth_Dimension.typ
+typst compile Das_Ende_der_Unendlichkeit.typ
 ```
 
-## License
+## Lizenz
 
-These papers are published for discussion. If you find them interesting, wrong, or both — good.
+Diese Papers sind zur Diskussion veröffentlicht. Wer sie interessant, falsch oder beides findet — gut.
