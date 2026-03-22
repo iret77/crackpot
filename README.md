@@ -23,7 +23,7 @@ If nature tends toward smooth, symmetric forms at every observable scale — why
 
 *Why the wave function never collapses — and what that reveals about the structure of reality.*
 
-The wave function collapse shares every problematic feature of the Big Bang singularity: it's instantaneous, irreversible, mechanism-free, and unobservable. Applying the same Regularity Principle, this paper proposes that quantum states coexist in a real, space-like dimension — and that our perception of "collapse" is a cognitive filter shaped by evolution. Introduces **Quantum Pixels** (discrete structure of all dimensions) and three competing geometric architectures for the extended reality.
+The wave function collapse shares every problematic feature of the Big Bang singularity: it's instantaneous, irreversible, mechanism-free, and unobservable. Applying the same Regularity Principle, this paper proposes that quantum states coexist in a real, space-like dimension — and that our perception of "collapse" is a cognitive filter shaped by evolution. Introduces **Quantum Cells** (discrete structure of all dimensions) and three competing geometric architectures for the extended reality.
 
 - [Deutsch (PDF)](Die_fuenfte_Dimension.pdf) / [English (PDF)](The_Fifth_Dimension.pdf)
 

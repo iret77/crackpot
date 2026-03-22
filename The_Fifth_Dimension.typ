@@ -135,7 +135,7 @@ What structure does this dimension have? The preceding argumentation suggests fo
 
 *1. Space-like, not time-like.* The wave dimension has no flow, no direction, no "before-and-after" character. Quantum states lie side by side like locations in space, not like moments in time. Only the time dimension introduces dynamics into the system.
 
-*2. Discrete, not continuous.* Quantum mechanics is fundamentally a theory of discrete states --- energy levels, spin directions, particle numbers. If the wave dimension carries these states, it is itself discrete. There are no arbitrarily fine intermediate states, only discrete positions --- *quantum pixels*.
+*2. Discrete, not continuous.* Quantum mechanics is fundamentally a theory of discrete states --- energy levels, spin directions, particle numbers. If the wave dimension carries these states, it is itself discrete. There are no arbitrarily fine intermediate states, only discrete positions --- *quantum cells*.
 
 *3. Finite, not infinite.* The Regularity Principle forbids true infinities. The wave dimension therefore contains a large but finite number of discrete states. This is consistent with the fact that physical systems with finite energy have only finitely many accessible states.
 
@@ -244,7 +244,7 @@ But Bell only rules out *local* hidden variables --- variables defined at the sa
 
 In this model, randomness would be the same thing as collapse: a perceptual artefact. Not fundamental, but perspectival. The probabilities of quantum mechanics would be real --- but they would describe not what *happens*, but what *we can see from our position in the wave dimension*.
 
-The Born rule --- the prescription that the probability of a measurement outcome equals the squared modulus of the wave function --- would receive a geometric interpretation: probability would be a measure of how many neighbouring quantum pixels in the wave dimension show the same result. High probability means: many neighbouring positions with this state. Low probability means: few.
+The Born rule --- the prescription that the probability of a measurement outcome equals the squared modulus of the wave function --- would receive a geometric interpretation: probability would be a measure of how many neighbouring quantum cells in the wave dimension show the same result. High probability means: many neighbouring positions with this state. Low probability means: few.
 
 === Determinism Without Predetermination
 
@@ -298,7 +298,7 @@ If this principle is extended to five dimensions, the division into "three spati
 
 This paper cannot decide among the three options. It names them as an open question.
 
-= 9. Quantum Pixels --- the Discrete Structure of Reality
+= 9. Quantum Cells --- the Discrete Structure of Reality
 
 A common thread runs through the papers in this series so far: the conviction that nature contains no true infinities and no true continua. If this is correct, the entire five-dimensional manifold --- space, time, and wave dimension --- is discrete.
 
@@ -318,12 +318,12 @@ If this finding is extended to all of spacetime --- as loop quantum gravity sugg
   radius: 4pt,
   fill: luma(245),
 )[
-  *Axiom 2 --- Quantum Pixels*
+  *Axiom 2 --- Quantum Cells*
 
   _Reality consists of a finite set of discrete points in a five-dimensional manifold. There are no true continua, no infinitely fine subdivisions, no physically real intermediate states. What we experience as "smooth space" and "continuous time" is the macroscopic approximation of a fundamentally discrete structure._
 ]
 
-The term "quantum pixel" is deliberately chosen and deliberately imprecise. "Pixel" denotes a two-dimensional picture element, "voxel" a three-dimensional volume element. A five-dimensional discrete element would --- following the convention that names five-dimensional hypercubes "penteracts" --- more properly be called a "pexel" or "qexel." This text uses "quantum pixel" because the term is immediately understood and conveys the essential idea: discrete, minimal, fundamental.
+The term "quantum cell" is deliberately chosen and deliberately imprecise. "Pixel" denotes a two-dimensional picture element, "voxel" a three-dimensional volume element. A five-dimensional discrete element would --- following the convention that names five-dimensional hypercubes "penteracts" --- more properly be called a "pexel" or "qexel." This text uses "quantum cell" because the term is immediately understood and conveys the essential idea: discrete, minimal, fundamental.
 
 This is the natural extension of the Regularity Principle (Axiom 1): if there are no true infinities, there are no true continua either --- since a continuum by definition contains infinitely many points.
 
@@ -350,7 +350,7 @@ The papers in this series so far pursue a common strategy: the consistent applic
   [Domain], [Discontinuity], [Resolution via the Regularity Principle],
   [Cosmology (Paper 2)], [Big Bang singularity], [Coordinate artefact on a smooth, closed manifold],
   [Quantum mechanics (Paper 3)], [Wave function collapse], [Perceptual artefact --- cross-section through a higher-dimensional reality],
-  [Spacetime structure (Papers 1 + 2)], [Continuum assumption], [Discrete quantum pixels in five dimensions],
+  [Spacetime structure (Papers 1 + 2)], [Continuum assumption], [Discrete quantum cells in five dimensions],
 )
 
 The connection is not merely thematic but structural: in both cases, an apparent discontinuity is resolved by extending reality by one dimension. In the first case, the temporal singularity of the Big Bang is smoothed by a closed spacetime topology. In the second case, the discontinuity of collapse is resolved by an additional dimension in which all states coexist.
