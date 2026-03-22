@@ -129,7 +129,9 @@ Das Regularitätsprinzip lässt sich durch ein epistemologisches Argument stütz
 
 > *Wenn ein mathematisches Modell eine Entität produziert, die prinzipiell nicht messbar ist, dann ist diese Entität kein physikalisches Ergebnis, sondern ein Artefakt des Modells. Die Beweislast liegt bei demjenigen, der behauptet, das Artefakt sei real.*
 
-Dies ist eine Verschärfung des Popper'schen Falsifizierbarkeitskriteriums: Nicht nur eine Theorie als Ganzes muss widerlegbar sein, sondern jedes einzelne Element einer Theorie muss einem prinzipiell möglichen Messvorgang zugänglich sein — oder es hat in einem physikalischen Modell nichts verloren.
+Dies ist eine Verschärfung des Popper'schen Falsifizierbarkeitskriteriums: Nicht nur eine Theorie als Ganzes muss widerlegbar sein, sondern jedes einzelne Element einer Theorie muss einem prinzipiell möglichen Messvorgang zugänglich sein — direkt oder indirekt — oder es hat in einem physikalischen Modell nichts verloren.
+
+Die Unterscheidung ist wichtig: *Direkt* unbeobachtbar heißt, dass kein Experiment — auch kein zukünftiges — das Phänomen registrieren kann. *Indirekt* beobachtbar heißt, dass das Phänomen selbst nicht direkt zugänglich ist, aber messbare Konsequenzen hinterlässt. Quarks sind nie isoliert beobachtet worden, aber ihre Existenz folgt aus tausenden indirekten Messungen. Die Urknall-Singularität dagegen ist nicht nur direkt, sondern auch indirekt unbeobachtbar — sie liegt hinter jedem möglichen Beobachtungshorizont und hinterlässt keine Signatur, die sie von einer regulären Geometrie unterscheidet.
 
 Die Urknall-Singularität verletzt dieses Kriterium. Sie liegt hinter dem Beobachtungshorizont der kosmischen Hintergrundstrahlung (ca. 380.000 Jahre nach dem Urknall), und selbst ein hypothetischer Gravitationswellenhintergrund könnte nicht bis zu einem Punkt unendlicher Dichte zurückreichen — denn an diesem Punkt verliert das Konzept der Raumzeit seinen physikalischen Sinn. Die Singularität ist nicht nur unbeobachtet, sondern prinzipiell unbeobachtbar.
 
@@ -156,11 +158,11 @@ Der entscheidende Unterschied zwischen dieser Überlegung und einer typischen La
 
 Dennoch bleibt ein Rest Unbehagen — und das ist vielleicht das Ehrlichste, was man sagen kann: Die Zweifel an der Singularität als physikalischer Realität verschwinden nicht, nur weil der Zweifler kein Physiker ist. Und die Tatsache, dass sich diese Zweifel mit ernst genommenen Forschungsprogrammen decken, macht sie zumindest diskussionswürdig.
 
-## 10. Eine wissenschaftssoziologische Anmerkung
+## 10. Anmerkung zum Status des Symmetrieprinzips
 
-Hochentwickelte Theoriegebäude erzeugen ihre eigene Trägheit. Je elaborierter ein Modell, desto höher die Eintrittskosten für den Fachdiskurs — und desto schwieriger wird es, eine einfachere Alternative überhaupt als zulässig wahrzunehmen. Die Forderung «Formalisiere das erst einmal» ist gleichzeitig ein legitimes wissenschaftliches Qualitätskriterium und ein Gatekeeping-Mechanismus.
+Das in Abschnitt 1 beschriebene Symmetriestreben der Natur ist eine *Heuristik* — ein Muster, das empirisch gut belegt ist und als Leitgedanke für Modellbau dient. Es ist kein Naturgesetz im strengen Sinne. Insbesondere ist die Physik voll von *spontaner Symmetriebrechung*: Der Grundzustand eines Systems kann weniger Symmetrie haben als die Gleichungen, die ihn beschreiben. Das Higgs-Feld bricht die elektroschwache Symmetrie. Ein Ferromagnet bricht die Rotationssymmetrie. Symmetriebrechung ist kein Versagen der Natur, sondern ein fundamentaler Mechanismus.
 
-Auch Physiker sind Menschen, die in Kollektiven arbeiten und Gruppendynamiken, paradigmatischen Denkgebäuden und Selbstüberschätzung («Ich bin durch und durch rational») genauso unterliegen wie jeder andere gesunde Mensch. Die Geschichte der Wissenschaft ist voll von Fällen, in denen eine im Rückblick triviale Einsicht Jahrzehnte brauchte, weil sie nicht in die Sprache des bestehenden Formalismus passte: Wegeners Kontinentaldrift, Boltzmanns statistische Mechanik, Semmelweis' Hygienehypothese.
+Das Symmetrieprinzip dieses Papiers behauptet deshalb nicht, dass die Natur *immer* maximal symmetrisch ist. Es behauptet, dass die Natur *dort, wo keine Randbedingung eine Brechung erzwingt*, zur höchsten Symmetrie tendiert — und dass jede beobachtete Asymmetrie eine physikalische Ursache haben muss. Wo keine Ursache identifiziert werden kann, ist die Asymmetrie verdächtig.
 
 ## 11. Fazit
 

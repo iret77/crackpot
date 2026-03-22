@@ -145,6 +145,7 @@ Berührungspunkt: Die engste strukturelle Verwandtschaft. Beide Modelle postulie
 Abgrenzung: Causal Sets arbeiten in 4D. Die Rolle von «Zufall» bei der Punktverteilung müsste im vorliegenden Modell durch deterministische, aber perspektivisch zufällige Strukturen ersetzt werden (siehe Paper 3, Abschnitt 7).
 
 
+)[
 _Was auffällt: Kein bestehendes Programm kombiniert alle drei Elemente des vorliegenden Modells --- eine reale, raumartige Extradimension für Quantenzustände, Diskretheit als fundamentale Struktur und die Geometrisierung der Quantenmechanik. Die Einzelteile existieren in der Literatur. Die Kombination ist neu --- und ungeprüft._
 
 

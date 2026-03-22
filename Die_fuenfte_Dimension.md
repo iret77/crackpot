@@ -40,6 +40,7 @@ Wenn das Regularitätsprinzip universell gilt --- «die Natur enthält keine ech
 ## 2. Die These
 
 
+)[
 *These:* Die Wellenfunktion kollabiert nie. Was wir als «Kollaps» erleben, ist eine perspektivische Beschränkung --- der Schnitt unserer Wahrnehmung durch eine höherdimensionale Realität.
 
 Die verschiedenen Quantenzustände koexistieren in einer realen, physikalischen Dimension --- der _Wellendimension_. Diese Dimension ist ebenso real wie die drei Raumdimensionen und die Zeitdimension. Wir können sie nicht wahrnehmen, und der «Kollaps» ist das Artefakt dieser Nicht-Wahrnehmung.
@@ -121,7 +122,9 @@ Dass wir die Wellendimension nicht wahrnehmen, sagt möglicherweise nichts über
 
 Ein naheliegender Einwand: Wenn die Wellenfunktion nie kollabiert und alle Zustände koexistieren --- warum sehen dann verschiedene Beobachter *denselben* Zustand? Warum stimmen wir alle überein, dass der Mond am Himmel steht?
 
-Die Antwort folgt direkt aus der Struktur des Modells: Alle Beobachter, die miteinander kommunizieren können, befinden sich am *selben Ort* in der Wellendimension. Sie teilen denselben «Schnitt» durch die höherdimensionale Realität. Die Übereinstimmung ihrer Beobachtungen ist nicht überraschend --- sie ist eine triviale Konsequenz ihrer gemeinsamen Position.
+Die Antwort folgt aus der Struktur des Modells, muss aber sorgfältig formuliert werden, um einen Zirkelschluss zu vermeiden. Die Behauptung ist *nicht*: «Beobachter sehen dasselbe, weil sie die gleiche Position teilen, und sie teilen die gleiche Position, weil sie dasselbe sehen.» Das wäre zirkulär.
+
+Die Behauptung ist: In einer 5D-Mannigfaltigkeit mit diskreter Struktur definiert die Physik selbst (Wechselwirkung, Kopplung, Informationsaustausch), welche Punkte in der Wellendimension miteinander kommunizieren können. Zwei Systeme, die physikalisch wechselwirken --- durch Photonenaustausch, Streuung, Gravitation --- sind dadurch in derselben «Schicht» der Wellendimension lokalisiert. Die gemeinsame Position ist eine *Konsequenz* der physikalischen Kopplung, nicht ihr Grund. Übereinstimmende Beobachtungen folgen dann daraus, dass gekoppelte Systeme notwendig denselben Zustandsschnitt teilen.
 
 Beobachter an einem *anderen* Ort in der Wellendimension --- in einem «benachbarten Schnitt» --- würden möglicherweise einen leicht anderen Zustand des Universums erleben. Aber sie können nicht mit uns kommunizieren, weil die Kommunikation selbst an den gemeinsamen Schnitt gebunden ist. Dies ist keine Ad-hoc-Annahme, sondern die direkte Konsequenz der Lokalisierung in einer raumartigen Dimension: Wer an verschiedenen Orten ist, kann sich nicht ohne Weiteres austauschen --- genauso wie räumlich getrennte Beobachter sich nur mit endlicher Geschwindigkeit Signale senden können.
 
@@ -254,6 +257,7 @@ Die Quantenmechanik liefert bereits empirische Beispiele für diskrete Übergän
 
 Wenn dieser Befund auf die gesamte Raumzeit ausgeweitet wird --- wie es die Loop-Quantengravitation nahelegt --- und zusätzlich auf die Wellendimension, dann besteht die Realität aus einer endlichen, aber extrem großen Zahl diskreter Punkte in fünf Dimensionen. Jeder Punkt hat fünf Koordinaten: drei räumliche, eine zeitliche, eine für den Quantenzustand.
 
+)[
 *Axiom 2 --- Quantenzellen*
 
 _Die Realität besteht aus einer endlichen Menge diskreter Punkte in einer fünfdimensionalen Mannigfaltigkeit. Es gibt keine echten Kontinua, keine unendlich feinen Unterteilungen, keine physikalisch realen Zwischenzustände. Was wir als «glatten Raum» und «stetige Zeit» erleben, ist die makroskopische Approximation einer fundamentalen diskreten Struktur._

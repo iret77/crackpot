@@ -196,7 +196,9 @@ Dass wir die Wellendimension nicht wahrnehmen, sagt möglicherweise nichts über
 
 Ein naheliegender Einwand: Wenn die Wellenfunktion nie kollabiert und alle Zustände koexistieren --- warum sehen dann verschiedene Beobachter *denselben* Zustand? Warum stimmen wir alle überein, dass der Mond am Himmel steht?
 
-Die Antwort folgt direkt aus der Struktur des Modells: Alle Beobachter, die miteinander kommunizieren können, befinden sich am *selben Ort* in der Wellendimension. Sie teilen denselben «Schnitt» durch die höherdimensionale Realität. Die Übereinstimmung ihrer Beobachtungen ist nicht überraschend --- sie ist eine triviale Konsequenz ihrer gemeinsamen Position.
+Die Antwort folgt aus der Struktur des Modells, muss aber sorgfältig formuliert werden, um einen Zirkelschluss zu vermeiden. Die Behauptung ist *nicht*: «Beobachter sehen dasselbe, weil sie die gleiche Position teilen, und sie teilen die gleiche Position, weil sie dasselbe sehen.» Das wäre zirkulär.
+
+Die Behauptung ist: In einer 5D-Mannigfaltigkeit mit diskreter Struktur definiert die Physik selbst (Wechselwirkung, Kopplung, Informationsaustausch), welche Punkte in der Wellendimension miteinander kommunizieren können. Zwei Systeme, die physikalisch wechselwirken --- durch Photonenaustausch, Streuung, Gravitation --- sind dadurch in derselben «Schicht» der Wellendimension lokalisiert. Die gemeinsame Position ist eine *Konsequenz* der physikalischen Kopplung, nicht ihr Grund. Übereinstimmende Beobachtungen folgen dann daraus, dass gekoppelte Systeme notwendig denselben Zustandsschnitt teilen.
 
 Beobachter an einem *anderen* Ort in der Wellendimension --- in einem «benachbarten Schnitt» --- würden möglicherweise einen leicht anderen Zustand des Universums erleben. Aber sie können nicht mit uns kommunizieren, weil die Kommunikation selbst an den gemeinsamen Schnitt gebunden ist. Dies ist keine Ad-hoc-Annahme, sondern die direkte Konsequenz der Lokalisierung in einer raumartigen Dimension: Wer an verschiedenen Orten ist, kann sich nicht ohne Weiteres austauschen --- genauso wie räumlich getrennte Beobachter sich nur mit endlicher Geschwindigkeit Signale senden können.
 
