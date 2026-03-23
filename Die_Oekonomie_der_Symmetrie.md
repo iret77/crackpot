@@ -85,3 +85,25 @@ Daraus folgt ein Prinzip, das dieses Papier als zweiten Pfeiler neben dem Symmet
 Die Konsequenz ist nicht, dass diese Begriffe falsch sind. Sie beschreiben reale Beobachtungen. Die Konsequenz ist, dass ihre Deutung als fundamentale Eigenschaften der Realität — statt als Artefakte einer bestimmten Beobachtungsebene — den gleichen Fehler wiederholt, der sich historisch jedes Mal als Fehler herausgestellt hat: den Sonderstatus der eigenen Perspektive für ein Feature der Welt zu halten.
 
 Kopernikus hat den geographischen Sonderstatus der Erde aufgelöst. Darwin hat den biologischen Sonderstatus des Menschen aufgelöst. Dieses Papier schlägt vor, den epistemologischen Sonderstatus unserer Wahrnehmungsebene aufzulösen — nicht weil bewiesen wäre, dass er ein Artefakt ist, sondern weil die Annahme, er sei keins, eine bemerkenswert schlechte historische Bilanz hat.
+
+## 4. Keine freien Parameter
+
+Physikalische Theorien enthalten Zahlen. Manche dieser Zahlen folgen aus der Theorie selbst — sie sind Konsequenzen der Struktur. Andere müssen gemessen und eingesetzt werden, ohne dass die Theorie erklärt, warum sie genau diesen Wert haben. Solche Zahlen heißen freie Parameter. Und jeder freie Parameter ist ein Eingeständnis: An dieser Stelle beschreibt die Theorie. Sie erklärt nicht.
+
+Das Standardmodell der Teilchenphysik ist die erfolgreichste Theorie der Wissenschaftsgeschichte. Seine Vorhersagen stimmen auf zwölf Dezimalstellen mit dem Experiment überein. Aber es enthält mindestens 19 freie Parameter — Teilchenmassen, Kopplungskonstanten, Mischungswinkel — die nicht aus der Theorie folgen. Niemand kann berechnen, warum das Elektron genau die Masse hat, die es hat. Die Theorie funktioniert mit *jeder* Elektronenmasse — man muss nur die richtige einsetzen. Das ist kein Defekt. Es ist eine Leerstelle, die das Modell selbst markiert.
+
+Das Standardmodell nennt sich «Modell» — zu Recht. Es beschreibt, was passiert. Es erklärt nicht, warum es so passiert und nicht anders. Die 19 Parameter sind 19 unbeantwortete «Warum?»-Fragen.
+
+Aber es gibt einen freien Parameter, der fundamentaler ist als alle anderen: die Anzahl der Dimensionen.
+
+**Die Dimensionszahl.** Die Physik behandelt das Universum als vierdimensionale Mannigfaltigkeit — drei Raumdimensionen und eine Zeitdimension. Warum 3+1? Es gibt kein Prinzip, das diese Zahl erzwingt. Die Stringtheorie benötigt 10 Dimensionen (oder 11, je nach Formulierung). Die bosonische Stringtheorie braucht 26. Andere Ansätze kommen mit weniger aus. Jede dieser Zahlen folgt aus einem Konsistenzbedürfnis des jeweiligen Formalismus — nicht aus einer Eigenschaft der Natur, die unabhängig vom Formalismus besteht.
+
+Die Situation erinnert an Abschnitt 1: Verschiedene Beschreibungen liefern verschiedene Zahlen, und jede behauptet, ihre sei die richtige. Das ist dasselbe Muster wie vor Darwin — verschiedene Klassifikationen, verschiedene Grenzen zwischen den «Arten», und jede hielt sich für natürlich. Mendeleev hat gezeigt, dass die Vielfalt aus einer tieferen Ordnung folgte. Die Frage ist, ob die Vielfalt der Dimensionszahlen auf dasselbe hinweist: nicht auf verschiedene richtige Antworten, sondern auf eine falsch gestellte Frage.
+
+Wer keine transzendente Instanz akzeptiert, die eine Zahl «gewählt» hat, steht vor einem Problem: Jede bestimmte Dimensionszahl ist ein freier Parameter auf der tiefsten Ebene der Theorie. Und ein freier Parameter auf dieser Ebene ist kein Detail — er sagt: Die Theorie setzt die Struktur der Realität, statt sie zu erklären.
+
+Lord Kelvin sagte im Jahr 1900, die Physik sei im Wesentlichen vollendet — es gebe nur noch «zwei kleine Wölkchen am Horizont». Die zwei Wölkchen waren das Michelson-Morley-Experiment und die Schwarzkörperstrahlung. Aus dem ersten wurde die Relativitätstheorie. Aus dem zweiten die Quantenmechanik. Die gesamte klassische Physik war, aus heutiger Sicht, ein Modell, das an 19 von 20 Stellen perfekt funktionierte — und an der einen Stelle, wo es nicht funktionierte, lag die nächste Revolution.
+
+Heute gibt es wieder Risse. Die Hubble-Spannung — verschiedene Messmethoden liefern verschiedene Expansionsraten des Universums. Hinweise auf dynamische statt konstante Dunkle Energie. Dunkle Materie, die seit Jahrzehnten postuliert, aber nie direkt nachgewiesen wurde. Keine supersymmetrischen Teilchen am LHC. Die Quantengravitation seit 90 Jahren ungelöst. Das sind nicht 19 Bestätigungen und ein Problem. Das sind 19 Bestätigungen und ein wachsendes Gefühl, dass die Leerstellen nicht zufällig verteilt sind.
+
+Dieses Papier behauptet nicht, die Leerstellen füllen zu können. Es behauptet, dass die Leerstellen ein Muster haben: Überall dort, wo die Physik eine Zahl *braucht* aber nicht *erklärt*, könnte ein Artefakt der Beschreibung vorliegen. Nicht die Zahl ist falsch — die Frage könnte falsch gestellt sein.
