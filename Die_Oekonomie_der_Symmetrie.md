@@ -107,3 +107,25 @@ Lord Kelvin sagte im Jahr 1900, die Physik sei im Wesentlichen vollendet — es 
 Heute gibt es wieder Risse. Die Hubble-Spannung — verschiedene Messmethoden liefern verschiedene Expansionsraten des Universums. Hinweise auf dynamische statt konstante Dunkle Energie. Dunkle Materie, die seit Jahrzehnten postuliert, aber nie direkt nachgewiesen wurde. Keine supersymmetrischen Teilchen am LHC. Die Quantengravitation seit 90 Jahren ungelöst. Das sind nicht 19 Bestätigungen und ein Problem. Das sind 19 Bestätigungen und ein wachsendes Gefühl, dass die Leerstellen nicht zufällig verteilt sind.
 
 Dieses Papier behauptet nicht, die Leerstellen füllen zu können. Es behauptet, dass die Leerstellen ein Muster haben: Überall dort, wo die Physik eine Zahl *braucht* aber nicht *erklärt*, könnte ein Artefakt der Beschreibung vorliegen. Nicht die Zahl ist falsch — die Frage könnte falsch gestellt sein.
+
+## 5. Die Konsequenzen
+
+Die Abschnitte 2, 3 und 4 formulieren drei Prinzipien:
+
+- **Symmetriebruch ist nie gratis.** Jede reale Asymmetrie hat einen identifizierbaren Mechanismus. Wo keiner gefunden wird, liegt möglicherweise ein Artefakt vor.
+- **Kein Sonderstatus.** Keine Beobachtungsebene hat privilegierten Zugang zur Realität. Begriffe, die ausschließlich auf unserer Ebene Sinn ergeben, sind verdächtig.
+- **Keine freien Parameter.** Wo eine Theorie eine Zahl braucht, aber nicht erklärt, gibt sie zu, dass ihr etwas fehlt. Die Frage «warum genau diese Zahl?» ist immer berechtigt.
+
+Diese Prinzipien sind abstrakt. Sie sagen nicht, *was* an der modernen Physik ein Artefakt ist — sie sagen, *wo* man suchen sollte. Die folgenden Papiere dieser Reihe wenden die Prinzipien auf konkrete offene Fragen der Physik an:
+
+**Die Urknall-Singularität** (Paper 2 der Reihe). Die Allgemeine Relativitätstheorie sagt voraus, dass Dichte und Krümmung am Anfang des Universums unendlich werden. Unendlichkeit in einer physikalischen Theorie ist historisch ein Indikator dafür, dass die Theorie an dieser Stelle versagt — nicht dafür, dass die Natur dort tatsächlich unendlich wird. Das Regularitätsprinzip fragt: Ist die Singularität ein Feature der Realität oder ein Artefakt der Beschreibung?
+
+**Der Kollaps der Wellenfunktion** (Paper 3 der Reihe). Die Quantenmechanik beschreibt Systeme als Überlagerungen vieler Zustände. Bei einer Messung «kollabiert» diese Überlagerung auf einen einzigen Zustand. Kein physikalischer Mechanismus beschreibt diesen Übergang. Das Sonderstatus-Verbot fragt: Ist der Kollaps ein physikalischer Vorgang — oder ein Artefakt einer Beobachtungsebene, die Überlagerungen nicht wahrnehmen kann?
+
+**Die UV-Divergenzen der Quantengravitation** (Paper 4 der Reihe). Der Versuch, Gravitation und Quantenmechanik zu vereinen, scheitert an Unendlichkeiten bei sehr kurzen Abständen. Die Standardantwort ist, dass ein neuer Formalismus nötig ist, der diese Unendlichkeiten beseitigt. Die Frage dieses Papiers: Sind die Unendlichkeiten ein Hinweis darauf, dass die Raumzeit unterhalb einer bestimmten Skala diskret ist — und wenn ja, was folgt daraus für die Struktur der Theorie?
+
+**Die Richtung der Zeit** (Paper 5 der Reihe). Die Grundgleichungen der Physik sind zeitumkehrsymmetrisch — sie funktionieren vorwärts und rückwärts gleich gut. Die beobachtete Asymmetrie zwischen Vergangenheit und Zukunft hat keinen bekannten fundamentalen Mechanismus. Sie wird üblicherweise auf spezielle Anfangsbedingungen zurückgeführt — was die Frage nur verschiebt. Das Symmetrieprinzip fragt: Ist die Zeitrichtung ein Feature der Realität oder ein lokales Gefälle, das aus unserer Position in der Geometrie folgt?
+
+**Bewusstsein und Wahrnehmung** (Paper 6 der Reihe). Wenn der Kollaps ein Artefakt der Beobachtungsebene ist, dann stellt sich die Frage, was «Beobachtung» eigentlich bedeutet — und was Bewusstsein in einer Physik ohne Kollaps ist. Die Antwort, die diese Reihe vorschlägt, ist unbefriedigend einfach: Bewusstsein beobachtet. Es entscheidet nicht. Die Debatte um den freien Willen löst sich nicht durch eine Antwort, sondern durch die Erkenntnis, dass die Frage falsch gestellt ist.
+
+Keines dieser Papiere beweist, dass die jeweilige Asymmetrie ein Artefakt ist. Jedes fragt, ob die Vermutung «Artefakt» konsistent formulierbar ist und ob sie zu besseren Modellen führt — im selben Sinne, in dem die Vermutung «die Erde ist nicht das Zentrum» konsistent formulierbar war und zu einem besseren Modell führte, lange bevor der Beweis vorlag.
